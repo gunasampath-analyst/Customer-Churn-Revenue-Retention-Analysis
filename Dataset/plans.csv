@@ -1,0 +1,11 @@
+﻿plan_id,plan_name,tier,billing_interval,list_price_usd,monthly_price_usd,billing_months,seats_included,extra_seat_price_usd,is_active,launched_date
+PLN-01,Starter Monthly,Starter,Monthly,49,49,1,3,12,Yes,15-01-2022
+PLN-02,Starter Annual,Starter,Annual,490,40.83,12,3,12,Yes,15-01-2022
+PLN-03,Growth Monthly,Growth,Monthly,199,199,1,10,18,Yes,15-01-2022
+PLN-04,Growth Annual,Growth,Annual,1990,165.83,12,10,18,Yes,15-01-2022
+PLN-05,Business Monthly,Business,Monthly,499,499,1,25,22,Yes,15-01-2023
+PLN-06,Business Annual,Business,Annual,4990,415.83,12,25,22,Yes,15-01-2023
+PLN-07,Enterprise Monthly,Enterprise,Monthly,1499,1499,1,100,25,Yes,15-01-2023
+PLN-08,Enterprise Annual,Enterprise,Annual,14990,1249.17,12,100,25,Yes,15-01-2023
+PLN-09,Growth Legacy,Growth,Monthly,149,149,1,8,15,No,15-01-2021
+PLN-10,Starter Legacy,Starter,Monthly,39,39,1,2,10,No,15-01-2021

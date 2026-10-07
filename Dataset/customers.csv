@@ -1,0 +1,1201 @@
+﻿customer_id,company_name,country,region,industry,segment,employees_band,signup_date,acquisition_channel,cohort_month,customer_status,churn_date
+CUS-00001,Lumencraft,Nigeria,Africa,E-Commerce,Enterprise,1001-5000,07-09-2021,Partner Referral,2024-01,Active,
+CUS-00002,Everestcraft,Saudi Arabia,Middle East,E-Commerce,SMB,51-200,16-05-2023,Product Referral,2024-01,Active,
+CUS-00003,Pioneeredge Solutions,Singapore,Asia-Pacific,Retail,SMB,1-50,05-09-2022,App Marketplace,2024-01,Active,
+CUS-00004,Helixpeak Digital,Egypt,Middle East,Professional Services,SMB,1-50,12-10-2021,Organic Search,2024-01,Active,
+CUS-00005,Vantagesphere Digital,South Africa,Africa,Professional Services,Mid-Market,201-1000,30-05-2021,Partner Referral,2024-01,Active,
+CUS-00006,Ridgesync Industries,United Kingdom,Europe,Financial Services,SMB,1-50,11-11-2023,App Marketplace,2024-01,Churned,01-04-2024
+CUS-00007,Ridgewind Partners,United States,North America,E-Commerce,Enterprise,1001-5000,08-01-2023,Organic Search,2024-01,Active,
+CUS-00008,Lumensync Partners,United States,North America,Education,SMB,1-50,08-03-2021,Paid Search,2024-01,Active,
+CUS-00009,Blueshift Partners,United States,North America,Education,Mid-Market,201-1000,02-04-2021,Paid Search,2024-01,Active,
+CUS-00010,Falconlabs,India,Asia-Pacific,Manufacturing,SMB,1-50,11-02-2021,Events,2024-01,Active,
+CUS-00011,Astergrid Partners,India,Asia-Pacific,E-Commerce,SMB,1-50,22-07-2023,App Marketplace,2024-01,Churned,01-11-2025
+CUS-00012,Everestbridge Industries,India,Asia-Pacific,Professional Services,SMB,51-200,24-10-2023,Organic Search,2024-01,Churned,01-01-2025
+CUS-00013,Everestspark Solutions,United States,North America,Software & IT,SMB,51-200,10-04-2022,Outbound Sales,2024-01,Active,
+CUS-00014,Onyxwind Holdings,Germany,Europe,Financial Services,Mid-Market,201-1000,23-10-2023,Organic Search,2024-01,Active,
+CUS-00015,Zenithlink Partners,United States,North America,E-Commerce,SMB,1-50,02-11-2022,Product Referral,2024-01,Churned,01-04-2024
+CUS-00016,Quartzcraft Partners,India,Asia-Pacific,Software & IT,Mid-Market,201-1000,15-11-2021,App Marketplace,2024-01,Active,
+CUS-00017,Terraflow Partners,United States,North America,Software & IT,SMB,1-50,30-04-2023,Paid Search,2024-01,Active,
+CUS-00018,Forgebridge Solutions,Canada,North America,Professional Services,Mid-Market,201-1000,12-02-2021,App Marketplace,2024-01,Churned,01-02-2026
+CUS-00019,Brightgate Group,United Kingdom,Europe,Software & IT,Mid-Market,201-1000,25-06-2022,Paid Search,2024-01,Active,
+CUS-00020,Meridianpoint Digital,United States,North America,E-Commerce,SMB,1-50,19-11-2021,App Marketplace,2024-01,Active,
+CUS-00021,Forgemark Technologies,United States,North America,Financial Services,Enterprise,1001-5000,12-04-2021,Organic Search,2024-01,Active,
+CUS-00022,Willowpeak Solutions,Singapore,Asia-Pacific,Financial Services,SMB,1-50,15-01-2021,Organic Search,2024-01,Churned,01-03-2026
+CUS-00023,Umbermark Industries,Germany,Europe,Healthcare,SMB,51-200,15-06-2022,Content Marketing,2024-01,Churned,01-07-2024
+CUS-00024,Falconsync Digital,Netherlands,Europe,Software & IT,SMB,1-50,30-05-2022,Product Referral,2024-01,Active,
+CUS-00025,Juniperstone Industries,Brazil,Latin America,Software & IT,Enterprise,5000+,15-07-2022,Content Marketing,2024-01,Active,
+CUS-00026,Asterscale Group,Canada,North America,Financial Services,SMB,51-200,18-12-2022,Content Marketing,2024-01,Churned,01-10-2025
+CUS-00027,Juniperwave Partners,Spain,Europe,E-Commerce,SMB,1-50,16-03-2023,Organic Search,2024-01,Active,
+CUS-00028,Quartzcraft Group,United States,North America,E-Commerce,Enterprise,5000+,03-10-2022,Paid Search,2024-01,Active,
+CUS-00029,Cobaltwave Holdings,Netherlands,Europe,Financial Services,SMB,51-200,18-07-2023,Organic Search,2024-01,Churned,01-03-2024
+CUS-00030,Falconfield Holdings,United Arab Emirates,Middle East,Retail,SMB,1-50,07-07-2021,Events,2024-01,Active,
+CUS-00031,Lumenedge,Germany,Europe,Manufacturing,Enterprise,1001-5000,20-03-2023,Product Referral,2024-01,Active,
+CUS-00032,Cobaltreach Technologies,United States,North America,Logistics,Mid-Market,201-1000,28-07-2023,App Marketplace,2024-01,Churned,01-10-2025
+CUS-00033,Lumenwave Digital,Singapore,Asia-Pacific,Software & IT,SMB,51-200,20-08-2022,App Marketplace,2024-01,Churned,01-06-2024
+CUS-00034,Nimbustrack Digital,France,Europe,Education,Enterprise,1001-5000,06-09-2021,Product Referral,2024-01,Churned,01-02-2024
+CUS-00035,Nimbuspeak Partners,India,Asia-Pacific,Healthcare,Enterprise,5000+,06-04-2023,Partner Referral,2024-01,Active,
+CUS-00036,Copperbase Industries,United States,North America,Education,Mid-Market,201-1000,09-03-2022,Organic Search,2024-01,Active,
+CUS-00037,Driftmark Solutions,Germany,Europe,E-Commerce,Mid-Market,201-1000,08-04-2021,Outbound Sales,2024-01,Active,
+CUS-00038,Cobaltgrid Industries,United States,North America,Logistics,SMB,1-50,07-09-2023,Paid Search,2024-01,Active,
+CUS-00039,Granitepoint Technologies,Japan,Asia-Pacific,Healthcare,Mid-Market,201-1000,27-12-2021,Partner Referral,2024-01,Active,
+CUS-00040,Basaltgrid Holdings,Singapore,Asia-Pacific,Professional Services,SMB,51-200,15-01-2023,Paid Search,2024-01,Churned,01-03-2024
+CUS-00041,Vertexpoint,United States,North America,Healthcare,SMB,51-200,11-09-2022,Content Marketing,2024-01,Churned,01-04-2025
+CUS-00042,Nimbuslogic,Egypt,Middle East,Healthcare,Mid-Market,201-1000,30-03-2023,Product Referral,2024-01,Active,
+CUS-00043,Terrashift Digital,Singapore,Asia-Pacific,Energy & Utilities,SMB,1-50,10-11-2023,Content Marketing,2024-01,Active,
+CUS-00044,Driftcraft Digital,France,Europe,Manufacturing,SMB,51-200,10-03-2022,Organic Search,2024-01,Active,
+CUS-00045,Copperhub Partners,Germany,Europe,Logistics,SMB,51-200,14-09-2023,Product Referral,2024-01,Churned,01-04-2025
+CUS-00046,Juniperlogic Holdings,Singapore,Asia-Pacific,Financial Services,SMB,51-200,08-05-2022,Outbound Sales,2024-01,Active,
+CUS-00047,Auroracore Technologies,Canada,North America,Financial Services,Mid-Market,201-1000,20-07-2021,Events,2024-01,Active,
+CUS-00048,Everestbase Digital,United Arab Emirates,Middle East,Media & Entertainment,SMB,51-200,12-01-2022,Content Marketing,2024-01,Churned,01-05-2024
+CUS-00049,Basaltlogic Digital,Australia,Asia-Pacific,Manufacturing,SMB,51-200,29-01-2021,Events,2024-01,Churned,01-11-2024
+CUS-00050,Lumenfield Digital,Saudi Arabia,Middle East,Software & IT,SMB,51-200,07-10-2022,Product Referral,2024-01,Churned,01-02-2025
+CUS-00051,Coppersphere Group,Germany,Europe,Media & Entertainment,SMB,1-50,10-10-2021,Outbound Sales,2024-01,Active,
+CUS-00052,Vertexstone Group,India,Asia-Pacific,E-Commerce,SMB,51-200,04-11-2021,App Marketplace,2024-01,Active,
+CUS-00053,Copperlabs Solutions,United Kingdom,Europe,Financial Services,Enterprise,1001-5000,28-02-2022,Paid Search,2024-01,Active,
+CUS-00054,Cobaltgrid,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,14-08-2023,Events,2024-01,Churned,01-02-2024
+CUS-00055,Novastone Solutions,India,Asia-Pacific,Financial Services,Mid-Market,201-1000,30-11-2023,Partner Referral,2024-01,Active,
+CUS-00056,Bluesync Industries,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,24-09-2021,Content Marketing,2024-01,Active,
+CUS-00057,Bluewind Group,Saudi Arabia,Middle East,Healthcare,Mid-Market,201-1000,30-03-2021,Product Referral,2024-01,Active,
+CUS-00058,Brightsystems Industries,Mexico,Latin America,E-Commerce,SMB,51-200,01-06-2023,Partner Referral,2024-01,Active,
+CUS-00059,Vantagesync Group,Canada,North America,Manufacturing,SMB,1-50,09-01-2023,Outbound Sales,2024-01,Active,
+CUS-00060,Umberlink Solutions,India,Asia-Pacific,Manufacturing,SMB,1-50,18-06-2023,Product Referral,2024-01,Churned,01-11-2024
+CUS-00061,Bluebridge Digital,Netherlands,Europe,Manufacturing,Enterprise,5000+,20-09-2021,Organic Search,2024-01,Churned,01-01-2026
+CUS-00062,Keystonespark Digital,Netherlands,Europe,Healthcare,Mid-Market,201-1000,06-04-2023,Product Referral,2024-01,Churned,01-01-2025
+CUS-00063,Cobaltpoint Industries,United Arab Emirates,Middle East,Software & IT,SMB,51-200,17-08-2023,Outbound Sales,2024-01,Churned,01-01-2025
+CUS-00064,Sablespark Group,United States,North America,Logistics,SMB,51-200,18-04-2021,Paid Search,2024-01,Churned,01-03-2024
+CUS-00065,Graniteline Technologies,United States,North America,Financial Services,Enterprise,1001-5000,15-07-2023,Partner Referral,2024-01,Active,
+CUS-00066,Helixshift Partners,United Kingdom,Europe,Real Estate,Enterprise,1001-5000,22-12-2022,App Marketplace,2024-01,Active,
+CUS-00067,Nimbuslogic Group,Spain,Europe,Real Estate,SMB,51-200,14-07-2023,Partner Referral,2024-01,Churned,01-03-2024
+CUS-00068,Latticesystems Holdings,Germany,Europe,Financial Services,Mid-Market,201-1000,16-06-2022,Events,2024-01,Active,
+CUS-00069,Latticebase Group,Canada,North America,Software & IT,SMB,1-50,27-11-2023,Organic Search,2024-01,Churned,01-07-2025
+CUS-00070,Driftfield Industries,India,Asia-Pacific,Healthcare,Enterprise,1001-5000,31-08-2023,App Marketplace,2024-01,Active,
+CUS-00071,Willowgate Group,Australia,Asia-Pacific,Financial Services,Mid-Market,201-1000,07-02-2023,Partner Referral,2024-01,Active,
+CUS-00072,Summitlink Partners,Spain,Europe,Real Estate,Mid-Market,201-1000,03-10-2022,Partner Referral,2024-01,Active,
+CUS-00073,Zenithsync Holdings,Germany,Europe,Logistics,SMB,1-50,04-10-2023,Content Marketing,2024-01,Churned,01-06-2026
+CUS-00074,Novawind Digital,Qatar,Middle East,Financial Services,SMB,1-50,09-05-2021,Product Referral,2024-01,Churned,01-02-2024
+CUS-00075,Meridianstone Digital,United Kingdom,Europe,Media & Entertainment,Enterprise,5000+,08-04-2022,Outbound Sales,2024-01,Active,
+CUS-00076,Lumenlink Partners,Saudi Arabia,Middle East,Software & IT,SMB,1-50,15-09-2023,Product Referral,2024-01,Churned,01-05-2024
+CUS-00077,Copperreach Holdings,Mexico,Latin America,Financial Services,Mid-Market,201-1000,19-08-2021,Partner Referral,2024-01,Active,
+CUS-00078,Junipergrid Holdings,Canada,North America,Media & Entertainment,Mid-Market,201-1000,21-06-2023,Paid Search,2024-01,Churned,01-10-2025
+CUS-00079,Northshift Technologies,Canada,North America,Logistics,SMB,1-50,09-08-2023,Organic Search,2024-01,Churned,01-04-2024
+CUS-00080,Northworks Industries,Mexico,Latin America,E-Commerce,Mid-Market,201-1000,26-01-2023,Organic Search,2024-01,Churned,01-09-2024
+CUS-00081,Quantumwind Technologies,Netherlands,Europe,Healthcare,Mid-Market,201-1000,05-01-2021,Organic Search,2024-01,Active,
+CUS-00082,Quantumlink Digital,South Africa,Africa,Education,Mid-Market,201-1000,24-12-2021,Partner Referral,2024-01,Active,
+CUS-00083,Ridgeedge Industries,United States,North America,E-Commerce,SMB,1-50,17-05-2023,Events,2024-01,Active,
+CUS-00084,Onyxpath Partners,United Kingdom,Europe,Manufacturing,SMB,51-200,16-08-2023,Partner Referral,2024-01,Active,
+CUS-00085,Junipershift Solutions,Brazil,Latin America,Manufacturing,Mid-Market,201-1000,11-03-2022,Partner Referral,2024-01,Churned,01-10-2024
+CUS-00086,Bluehub,Saudi Arabia,Middle East,Education,Mid-Market,201-1000,25-01-2023,Organic Search,2024-01,Active,
+CUS-00087,Northreach,Canada,North America,Financial Services,Mid-Market,201-1000,30-06-2022,Partner Referral,2024-01,Active,
+CUS-00088,Ivorybridge Holdings,Brazil,Latin America,E-Commerce,Enterprise,5000+,06-09-2022,Events,2024-01,Active,
+CUS-00089,Ridgereach,Canada,North America,Retail,SMB,51-200,14-01-2022,App Marketplace,2024-01,Churned,01-03-2024
+CUS-00090,Meridianshift Industries,United States,North America,Professional Services,SMB,51-200,12-11-2021,Paid Search,2024-01,Active,
+CUS-00091,Ivorygrid,Mexico,Latin America,Software & IT,SMB,1-50,24-04-2022,Partner Referral,2024-01,Active,
+CUS-00092,Helixgate Solutions,India,Asia-Pacific,E-Commerce,Mid-Market,201-1000,15-10-2023,Content Marketing,2024-01,Active,
+CUS-00093,Falconshift Group,Canada,North America,Software & IT,SMB,51-200,14-04-2021,Events,2024-01,Active,
+CUS-00094,Juniperlink Industries,United Kingdom,Europe,Logistics,Mid-Market,201-1000,03-10-2022,Partner Referral,2024-01,Active,
+CUS-00095,Keystoneworks Technologies,Singapore,Asia-Pacific,Manufacturing,Mid-Market,201-1000,21-04-2021,Events,2024-01,Active,
+CUS-00096,Forgelogic Solutions,Nigeria,Africa,Financial Services,Enterprise,1001-5000,24-07-2022,Outbound Sales,2024-01,Active,
+CUS-00097,Cedarlink Holdings,India,Asia-Pacific,Manufacturing,SMB,51-200,26-12-2023,Content Marketing,2024-01,Active,
+CUS-00098,Willowlogic Digital,United Kingdom,Europe,Logistics,Mid-Market,201-1000,09-08-2021,Events,2024-01,Active,
+CUS-00099,Meridianbridge Partners,India,Asia-Pacific,Financial Services,SMB,1-50,14-09-2022,Events,2024-01,Churned,01-08-2025
+CUS-00100,Vantagescale,United States,North America,Professional Services,SMB,1-50,20-08-2022,Organic Search,2024-01,Active,
+CUS-00101,Sablegate Solutions,United Kingdom,Europe,Software & IT,Enterprise,5000+,19-11-2023,Outbound Sales,2024-01,Churned,01-02-2025
+CUS-00102,Ivorytrack Technologies,Netherlands,Europe,Professional Services,Mid-Market,201-1000,16-03-2022,Organic Search,2024-01,Active,
+CUS-00103,Meridiancraft Group,India,Asia-Pacific,Software & IT,SMB,51-200,14-10-2021,Product Referral,2024-01,Churned,01-12-2025
+CUS-00104,Lumensystems Industries,United States,North America,Professional Services,SMB,51-200,17-08-2022,Partner Referral,2024-01,Churned,01-06-2025
+CUS-00105,Quartzmark Group,United Kingdom,Europe,Financial Services,SMB,1-50,10-02-2023,Organic Search,2024-01,Churned,01-03-2024
+CUS-00106,Nimbuslogic Digital,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,19-10-2022,Paid Search,2024-01,Churned,01-05-2024
+CUS-00107,Cobaltflow Technologies,Germany,Europe,E-Commerce,Enterprise,1001-5000,09-09-2021,Organic Search,2024-01,Active,
+CUS-00108,Quantumsystems Group,United States,North America,Education,SMB,51-200,12-09-2023,Paid Search,2024-01,Churned,01-02-2024
+CUS-00109,Forgecraft Technologies,United Kingdom,Europe,Logistics,SMB,51-200,22-05-2023,Partner Referral,2024-01,Active,
+CUS-00110,Forgecraft Solutions,Germany,Europe,E-Commerce,SMB,51-200,24-10-2023,Paid Search,2024-01,Churned,01-09-2024
+CUS-00111,Terratrack,India,Asia-Pacific,Healthcare,Mid-Market,201-1000,01-10-2021,Paid Search,2024-01,Active,
+CUS-00112,Pioneerfield Industries,Canada,North America,Healthcare,SMB,51-200,02-03-2023,Partner Referral,2024-01,Churned,01-10-2025
+CUS-00113,Lumenshift Technologies,Nigeria,Africa,Software & IT,Mid-Market,201-1000,16-02-2022,Organic Search,2024-01,Active,
+CUS-00114,Umberstone Digital,United States,North America,Professional Services,Enterprise,5000+,06-08-2021,Paid Search,2024-01,Active,
+CUS-00115,Asterwave Holdings,Japan,Asia-Pacific,Media & Entertainment,SMB,1-50,10-08-2023,Content Marketing,2024-01,Active,
+CUS-00116,Novaflow Technologies,United States,North America,Healthcare,SMB,51-200,21-07-2021,Partner Referral,2024-01,Churned,01-08-2024
+CUS-00117,Vertexgate Industries,Saudi Arabia,Middle East,Manufacturing,SMB,51-200,21-10-2021,Outbound Sales,2024-01,Active,
+CUS-00118,Copperpeak,United States,North America,Logistics,Mid-Market,201-1000,27-02-2022,Outbound Sales,2024-01,Active,
+CUS-00119,Onyxpeak Industries,Spain,Europe,Healthcare,Mid-Market,201-1000,18-10-2023,Paid Search,2024-01,Active,
+CUS-00120,Harborflow Solutions,United States,North America,E-Commerce,SMB,1-50,24-10-2023,Organic Search,2024-01,Churned,01-09-2024
+CUS-00121,Novacraft Digital,Canada,North America,Education,Enterprise,5000+,30-01-2022,Outbound Sales,2024-01,Active,
+CUS-00122,Nimbuslink Group,Singapore,Asia-Pacific,Logistics,SMB,1-50,27-08-2023,Partner Referral,2024-01,Active,
+CUS-00123,Cedarpath Industries,United States,North America,Professional Services,Mid-Market,201-1000,09-06-2023,Product Referral,2024-01,Active,
+CUS-00124,Pioneerpoint Industries,United Kingdom,Europe,Media & Entertainment,SMB,1-50,11-03-2023,App Marketplace,2024-01,Churned,01-02-2025
+CUS-00125,Latticetrack Partners,Brazil,Latin America,Professional Services,SMB,51-200,30-07-2021,Organic Search,2024-01,Churned,01-05-2024
+CUS-00126,Lumencore Digital,India,Asia-Pacific,Energy & Utilities,SMB,1-50,17-11-2023,Events,2024-01,Active,
+CUS-00127,Orbithub Industries,Brazil,Latin America,Healthcare,SMB,1-50,23-03-2021,Product Referral,2024-01,Churned,01-03-2025
+CUS-00128,Meridiansystems Digital,Saudi Arabia,Middle East,Energy & Utilities,Mid-Market,201-1000,31-03-2023,Content Marketing,2024-01,Active,
+CUS-00129,Vertexscale Holdings,Netherlands,Europe,Retail,Mid-Market,201-1000,20-12-2021,Partner Referral,2024-01,Churned,01-06-2026
+CUS-00130,Everestwave Partners,India,Asia-Pacific,E-Commerce,SMB,1-50,06-11-2022,Events,2024-01,Active,
+CUS-00131,Quantumpoint Holdings,Spain,Europe,Media & Entertainment,SMB,51-200,03-10-2022,Paid Search,2024-01,Churned,01-05-2025
+CUS-00132,Falconline,Qatar,Middle East,Financial Services,SMB,51-200,09-01-2022,Events,2024-01,Churned,01-05-2025
+CUS-00133,Bluespark Partners,Germany,Europe,Software & IT,SMB,51-200,27-07-2023,Partner Referral,2024-01,Churned,01-04-2025
+CUS-00134,Driftwind Group,Germany,Europe,Retail,Mid-Market,201-1000,24-11-2022,Paid Search,2024-01,Churned,01-04-2024
+CUS-00135,Sablespark Solutions,United Arab Emirates,Middle East,Manufacturing,SMB,1-50,20-06-2022,Outbound Sales,2024-01,Churned,01-01-2025
+CUS-00136,Helixbase Industries,Mexico,Latin America,Education,Mid-Market,201-1000,30-07-2023,Paid Search,2024-01,Active,
+CUS-00137,Meridiansystems Partners,United States,North America,Real Estate,Mid-Market,201-1000,10-01-2021,Content Marketing,2024-01,Churned,01-05-2024
+CUS-00138,Sableflow Holdings,India,Asia-Pacific,Real Estate,SMB,51-200,02-10-2022,Organic Search,2024-01,Active,
+CUS-00139,Latticemark Solutions,India,Asia-Pacific,Financial Services,SMB,51-200,27-04-2023,Organic Search,2024-01,Churned,01-12-2025
+CUS-00140,Umbertrack Group,Brazil,Latin America,Manufacturing,Mid-Market,201-1000,18-08-2022,Outbound Sales,2024-01,Active,
+CUS-00141,Deltaline Industries,United States,North America,Real Estate,Mid-Market,201-1000,13-12-2022,Content Marketing,2024-01,Active,
+CUS-00142,Terraworks,Nigeria,Africa,Media & Entertainment,SMB,1-50,13-05-2023,Content Marketing,2024-01,Active,
+CUS-00143,Falconsync Group,Sweden,Europe,Software & IT,Mid-Market,201-1000,12-08-2023,Content Marketing,2024-01,Active,
+CUS-00144,Quartzbase Solutions,Brazil,Latin America,Healthcare,SMB,1-50,16-12-2023,Product Referral,2024-01,Churned,01-09-2024
+CUS-00145,Emberbase Digital,Brazil,Latin America,Healthcare,Enterprise,5000+,28-08-2021,Content Marketing,2024-01,Active,
+CUS-00146,Terrabase,Canada,North America,Professional Services,Enterprise,5000+,01-01-2023,Product Referral,2024-01,Active,
+CUS-00147,Zenithcore Technologies,Nigeria,Africa,E-Commerce,SMB,51-200,26-02-2023,Partner Referral,2024-01,Active,
+CUS-00148,Sablescale Industries,India,Asia-Pacific,Healthcare,SMB,1-50,25-10-2023,Organic Search,2024-01,Churned,01-06-2024
+CUS-00149,Northpath Digital,United Kingdom,Europe,E-Commerce,SMB,51-200,09-09-2021,Events,2024-01,Churned,01-01-2026
+CUS-00150,Sablesystems Solutions,United States,North America,Software & IT,SMB,51-200,18-02-2023,Paid Search,2024-01,Churned,01-08-2024
+CUS-00151,Deltascale Partners,United Kingdom,Europe,Software & IT,SMB,1-50,19-12-2023,Events,2024-01,Churned,01-09-2024
+CUS-00152,Basaltworks Group,Sweden,Europe,E-Commerce,SMB,1-50,16-04-2023,Outbound Sales,2024-01,Churned,01-06-2024
+CUS-00153,Asterscale Solutions,Japan,Asia-Pacific,Healthcare,Mid-Market,201-1000,12-01-2022,Partner Referral,2024-01,Active,
+CUS-00154,Granitehub Solutions,United States,North America,Professional Services,Mid-Market,201-1000,04-01-2022,Content Marketing,2024-01,Active,
+CUS-00155,Bluehub Partners,Netherlands,Europe,E-Commerce,SMB,1-50,15-08-2023,Paid Search,2024-01,Churned,01-07-2024
+CUS-00156,Brightworks Group,United States,North America,Logistics,SMB,51-200,19-08-2022,Organic Search,2024-01,Active,
+CUS-00157,Lumencore,Australia,Asia-Pacific,Education,SMB,1-50,05-04-2021,Paid Search,2024-01,Churned,01-04-2026
+CUS-00158,Lumenwave Solutions,Canada,North America,Manufacturing,Mid-Market,201-1000,30-12-2022,App Marketplace,2024-01,Active,
+CUS-00159,Summitfield Industries,South Africa,Africa,Education,SMB,1-50,17-11-2022,Organic Search,2024-01,Churned,01-07-2024
+CUS-00160,Novasphere Technologies,Germany,Europe,Logistics,SMB,51-200,23-05-2023,Content Marketing,2024-01,Active,
+CUS-00161,Harborgrid Technologies,Canada,North America,Professional Services,Mid-Market,201-1000,28-02-2021,Outbound Sales,2024-01,Active,
+CUS-00162,Meridianreach Solutions,United States,North America,Education,SMB,51-200,31-01-2023,Partner Referral,2024-01,Active,
+CUS-00163,Cedarfield Partners,Germany,Europe,Logistics,SMB,51-200,24-03-2021,Product Referral,2024-01,Churned,01-03-2025
+CUS-00164,Cedaredge Partners,India,Asia-Pacific,Logistics,SMB,1-50,06-10-2023,Partner Referral,2024-01,Active,
+CUS-00165,Helixline Solutions,Japan,Asia-Pacific,Professional Services,Enterprise,1001-5000,24-03-2022,Outbound Sales,2024-01,Active,
+CUS-00166,Helixgrid Digital,United Kingdom,Europe,Financial Services,SMB,51-200,18-04-2021,Outbound Sales,2024-01,Active,
+CUS-00167,Harborworks Technologies,United Arab Emirates,Middle East,Education,SMB,1-50,07-11-2021,App Marketplace,2024-01,Active,
+CUS-00168,Summitpath Technologies,Singapore,Asia-Pacific,Financial Services,Mid-Market,201-1000,27-09-2021,Content Marketing,2024-01,Churned,01-10-2024
+CUS-00169,Vertexflow,Netherlands,Europe,Healthcare,Mid-Market,201-1000,02-12-2022,Events,2024-01,Active,
+CUS-00170,Summitsystems Solutions,United States,North America,E-Commerce,SMB,1-50,12-12-2022,Partner Referral,2024-01,Active,
+CUS-00171,Deltabase Solutions,India,Asia-Pacific,Financial Services,Enterprise,1001-5000,14-12-2021,Product Referral,2024-01,Active,
+CUS-00172,Everestshift,Australia,Asia-Pacific,Retail,SMB,1-50,22-04-2023,Product Referral,2024-01,Active,
+CUS-00173,Vantagepath Partners,Saudi Arabia,Middle East,Software & IT,SMB,51-200,16-08-2021,Content Marketing,2024-01,Active,
+CUS-00174,Embershift Industries,United Kingdom,Europe,Real Estate,Mid-Market,201-1000,18-02-2023,Paid Search,2024-01,Churned,01-04-2024
+CUS-00175,Cobalttrack Technologies,India,Asia-Pacific,Manufacturing,Mid-Market,201-1000,25-08-2021,Content Marketing,2024-01,Active,
+CUS-00176,Novatrack Technologies,United Kingdom,Europe,Software & IT,SMB,51-200,02-05-2021,Content Marketing,2024-01,Active,
+CUS-00177,Quantummark Group,Netherlands,Europe,E-Commerce,Mid-Market,201-1000,19-06-2022,Organic Search,2024-01,Active,
+CUS-00178,Vantagepath Solutions,Nigeria,Africa,Healthcare,SMB,51-200,20-04-2023,App Marketplace,2024-01,Churned,01-03-2026
+CUS-00179,Novastone,United States,North America,Education,Mid-Market,201-1000,13-09-2023,Product Referral,2024-01,Active,
+CUS-00180,Falconsync,Brazil,Latin America,Retail,SMB,51-200,07-07-2022,Outbound Sales,2024-01,Churned,01-03-2025
+CUS-00181,Ivorypeak Solutions,United Arab Emirates,Middle East,Energy & Utilities,SMB,51-200,14-10-2021,App Marketplace,2024-01,Churned,01-09-2025
+CUS-00182,Umbergrid Digital,Germany,Europe,Professional Services,SMB,51-200,29-11-2021,Paid Search,2024-01,Churned,01-02-2025
+CUS-00183,Latticeshift Industries,United States,North America,E-Commerce,SMB,1-50,27-02-2023,Product Referral,2024-01,Churned,01-04-2026
+CUS-00184,Quantummark Partners,India,Asia-Pacific,Real Estate,Enterprise,5000+,16-02-2022,Organic Search,2024-01,Active,
+CUS-00185,Willowscale Group,Germany,Europe,Financial Services,SMB,1-50,12-01-2021,Organic Search,2024-01,Active,
+CUS-00186,Falconscale Partners,Japan,Asia-Pacific,Real Estate,SMB,51-200,18-03-2023,Outbound Sales,2024-01,Active,
+CUS-00187,Everestpath Industries,Canada,North America,Logistics,Mid-Market,201-1000,21-09-2021,App Marketplace,2024-01,Active,
+CUS-00188,Forgeshift Group,Spain,Europe,Real Estate,SMB,51-200,08-12-2023,Organic Search,2024-01,Active,
+CUS-00189,Ridgegrid Solutions,India,Asia-Pacific,Financial Services,SMB,1-50,25-12-2022,Product Referral,2024-01,Churned,01-02-2024
+CUS-00190,Vertexmark Partners,Netherlands,Europe,Manufacturing,Mid-Market,201-1000,25-11-2022,Organic Search,2024-01,Active,
+CUS-00191,Summitpoint Holdings,Spain,Europe,E-Commerce,SMB,51-200,23-03-2022,Organic Search,2024-01,Churned,01-01-2026
+CUS-00192,Quartzwind Industries,South Africa,Africa,Energy & Utilities,SMB,51-200,10-08-2022,Outbound Sales,2024-01,Churned,01-03-2024
+CUS-00193,Astertrack Industries,United Arab Emirates,Middle East,Professional Services,Enterprise,5000+,22-01-2021,Outbound Sales,2024-01,Active,
+CUS-00194,Zenithreach Group,Canada,North America,Media & Entertainment,Mid-Market,201-1000,26-03-2021,Partner Referral,2024-01,Churned,01-04-2024
+CUS-00195,Umbercore Technologies,India,Asia-Pacific,Logistics,Mid-Market,201-1000,02-09-2023,Partner Referral,2024-01,Churned,01-04-2024
+CUS-00196,Ivorytrack Holdings,Canada,North America,Financial Services,SMB,51-200,04-04-2021,Partner Referral,2024-01,Active,
+CUS-00197,Blueshift Solutions,India,Asia-Pacific,Media & Entertainment,SMB,51-200,11-06-2021,Partner Referral,2024-01,Churned,01-05-2025
+CUS-00198,Quartzsphere,United Arab Emirates,Middle East,E-Commerce,Enterprise,1001-5000,10-10-2022,Product Referral,2024-01,Active,
+CUS-00199,Cedartrack Group,United Arab Emirates,Middle East,Media & Entertainment,Mid-Market,201-1000,26-04-2022,Outbound Sales,2024-01,Churned,01-04-2025
+CUS-00200,Orbitedge Industries,United Kingdom,Europe,Energy & Utilities,SMB,1-50,05-12-2021,Content Marketing,2024-01,Churned,01-01-2025
+CUS-00201,Forgescale Group,India,Asia-Pacific,Logistics,SMB,1-50,15-12-2023,Organic Search,2024-01,Churned,01-02-2024
+CUS-00202,Quantumcraft Technologies,France,Europe,Media & Entertainment,Enterprise,5000+,21-10-2021,Paid Search,2024-01,Active,
+CUS-00203,Pioneergrid Group,Mexico,Latin America,Financial Services,SMB,51-200,04-04-2021,Events,2024-01,Active,
+CUS-00204,Meridiantrack Technologies,South Africa,Africa,Software & IT,SMB,51-200,02-04-2023,Events,2024-01,Churned,01-02-2024
+CUS-00205,Brighttrack Holdings,Germany,Europe,Software & IT,SMB,51-200,27-03-2021,Organic Search,2024-01,Active,
+CUS-00206,Onyxcore,United Kingdom,Europe,Education,SMB,1-50,03-02-2021,Content Marketing,2024-01,Churned,01-06-2025
+CUS-00207,Sablecraft Digital,Singapore,Asia-Pacific,Software & IT,SMB,1-50,22-09-2021,Organic Search,2024-01,Churned,01-05-2024
+CUS-00208,Onyxspark Industries,Brazil,Latin America,Manufacturing,SMB,51-200,03-10-2023,Organic Search,2024-01,Churned,01-11-2024
+CUS-00209,Quantumworks Industries,United States,North America,Financial Services,SMB,1-50,03-05-2021,App Marketplace,2024-01,Active,
+CUS-00210,Bluepoint Group,Australia,Asia-Pacific,Retail,SMB,1-50,26-12-2023,Paid Search,2024-01,Active,
+CUS-00211,Harboredge Industries,United States,North America,E-Commerce,SMB,51-200,15-07-2023,Events,2024-01,Churned,01-07-2024
+CUS-00212,Helixcore Group,India,Asia-Pacific,Financial Services,SMB,51-200,22-10-2022,Events,2024-01,Active,
+CUS-00213,Brightstone,South Africa,Africa,Manufacturing,SMB,51-200,24-01-2022,Organic Search,2024-01,Active,
+CUS-00214,Deltaworks,Brazil,Latin America,Healthcare,SMB,51-200,04-12-2022,Partner Referral,2024-01,Active,
+CUS-00215,Lumenbase Solutions,India,Asia-Pacific,Education,Mid-Market,201-1000,03-08-2021,Partner Referral,2024-01,Active,
+CUS-00216,Juniperpeak Digital,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,03-03-2023,Partner Referral,2024-01,Active,
+CUS-00217,Orbitpath,Mexico,Latin America,Financial Services,Enterprise,5000+,24-10-2023,Outbound Sales,2024-01,Active,
+CUS-00218,Terrapeak Technologies,India,Asia-Pacific,Manufacturing,Enterprise,5000+,07-08-2021,Organic Search,2024-01,Active,
+CUS-00219,Willowlink Technologies,United States,North America,Healthcare,SMB,1-50,30-10-2022,Content Marketing,2024-01,Active,
+CUS-00220,Summitflow Partners,Netherlands,Europe,Education,Enterprise,1001-5000,23-02-2022,Product Referral,2024-01,Churned,01-09-2025
+CUS-00221,Brightwind Partners,United States,North America,E-Commerce,SMB,1-50,24-11-2023,Outbound Sales,2024-01,Churned,01-11-2024
+CUS-00222,Orbitfield Partners,Netherlands,Europe,Healthcare,Enterprise,5000+,03-08-2023,Organic Search,2024-01,Active,
+CUS-00223,Umbersync Solutions,India,Asia-Pacific,E-Commerce,Mid-Market,201-1000,24-01-2021,Outbound Sales,2024-01,Active,
+CUS-00224,Deltashift Holdings,Egypt,Middle East,Financial Services,SMB,51-200,28-07-2023,Partner Referral,2024-01,Churned,01-01-2026
+CUS-00225,Keystonewave Solutions,United Kingdom,Europe,E-Commerce,SMB,1-50,29-08-2023,Outbound Sales,2024-01,Active,
+CUS-00226,Brightsystems Technologies,Mexico,Latin America,Real Estate,Mid-Market,201-1000,27-11-2021,Events,2024-01,Active,
+CUS-00227,Granitewave Partners,United States,North America,Software & IT,SMB,51-200,15-09-2023,Organic Search,2024-01,Active,
+CUS-00228,Vertexcraft Partners,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,17-08-2021,Outbound Sales,2024-01,Churned,01-07-2024
+CUS-00229,Deltawave,Netherlands,Europe,Manufacturing,SMB,1-50,20-05-2021,Content Marketing,2024-01,Active,
+CUS-00230,Coppercore Partners,Mexico,Latin America,Retail,Mid-Market,201-1000,24-11-2021,App Marketplace,2024-01,Active,
+CUS-00231,Willowcraft,Nigeria,Africa,Software & IT,Enterprise,1001-5000,24-06-2022,Events,2024-01,Active,
+CUS-00232,Pioneerreach Holdings,United Kingdom,Europe,Retail,SMB,51-200,20-12-2023,Outbound Sales,2024-01,Active,
+CUS-00233,Orbitgrid Partners,Netherlands,Europe,Professional Services,SMB,51-200,14-08-2023,Product Referral,2024-01,Churned,01-06-2025
+CUS-00234,Umberstone Partners,United States,North America,Energy & Utilities,SMB,1-50,30-10-2022,Outbound Sales,2024-01,Active,
+CUS-00235,Northtrack Group,United Arab Emirates,Middle East,Healthcare,SMB,1-50,24-11-2021,Events,2024-01,Churned,01-11-2024
+CUS-00236,Pioneerworks Partners,Canada,North America,Professional Services,Mid-Market,201-1000,31-10-2021,Content Marketing,2024-01,Active,
+CUS-00237,Juniperlogic Group,Australia,Asia-Pacific,Logistics,Mid-Market,201-1000,14-02-2023,Partner Referral,2024-01,Churned,01-02-2024
+CUS-00238,Helixcraft,United States,North America,Financial Services,SMB,1-50,29-04-2022,Outbound Sales,2024-01,Active,
+CUS-00239,Bluelink Technologies,United States,North America,Media & Entertainment,SMB,51-200,21-11-2022,Paid Search,2024-01,Churned,01-04-2026
+CUS-00240,Nimbusworks,United States,North America,Financial Services,SMB,51-200,31-01-2022,Content Marketing,2024-01,Churned,01-12-2025
+CUS-00241,Zenithflow Group,Germany,Europe,Education,SMB,51-200,10-04-2023,Partner Referral,2024-01,Active,
+CUS-00242,Onyxworks Group,Egypt,Middle East,Education,SMB,51-200,28-12-2021,App Marketplace,2024-01,Active,
+CUS-00243,Helixshift Digital,Mexico,Latin America,Software & IT,SMB,51-200,16-01-2021,Outbound Sales,2024-01,Churned,01-06-2025
+CUS-00244,Bluelabs Industries,France,Europe,E-Commerce,SMB,1-50,23-03-2023,App Marketplace,2024-01,Churned,01-06-2024
+CUS-00245,Cedarfield Group,South Africa,Africa,E-Commerce,SMB,1-50,27-01-2022,Content Marketing,2024-01,Churned,01-05-2024
+CUS-00246,Willowflow,Australia,Asia-Pacific,Healthcare,Mid-Market,201-1000,28-11-2023,App Marketplace,2024-01,Active,
+CUS-00247,Deltamark Solutions,India,Asia-Pacific,Media & Entertainment,Mid-Market,201-1000,12-07-2021,Product Referral,2024-01,Active,
+CUS-00248,Astertrack Partners,India,Asia-Pacific,Manufacturing,SMB,1-50,11-05-2021,App Marketplace,2024-01,Active,
+CUS-00249,Umbercraft Group,Egypt,Middle East,Software & IT,Mid-Market,201-1000,11-05-2021,App Marketplace,2024-01,Active,
+CUS-00250,Falconline Holdings,Singapore,Asia-Pacific,Education,SMB,51-200,27-08-2023,Product Referral,2024-01,Active,
+CUS-00251,Embergrid Solutions,India,Asia-Pacific,Financial Services,Mid-Market,201-1000,11-10-2021,Organic Search,2024-01,Active,
+CUS-00252,Cobaltshift Industries,Mexico,Latin America,Healthcare,Mid-Market,201-1000,10-10-2023,Product Referral,2024-01,Churned,01-08-2024
+CUS-00253,Bluetrack,United States,North America,Logistics,Mid-Market,201-1000,02-03-2022,Organic Search,2024-01,Churned,01-05-2025
+CUS-00254,Umberwave Holdings,Canada,North America,Professional Services,Mid-Market,201-1000,12-09-2022,Outbound Sales,2024-01,Active,
+CUS-00255,Northpeak,United States,North America,Software & IT,SMB,51-200,28-05-2021,Organic Search,2024-01,Active,
+CUS-00256,Bluescale Holdings,United States,North America,Media & Entertainment,Mid-Market,201-1000,05-01-2021,Paid Search,2024-01,Active,
+CUS-00257,Quartzspark Holdings,Netherlands,Europe,Logistics,SMB,51-200,14-01-2022,Product Referral,2024-01,Active,
+CUS-00258,Vantagespark,United States,North America,Media & Entertainment,Mid-Market,201-1000,13-06-2021,Partner Referral,2024-01,Active,
+CUS-00259,Harborreach Partners,United Arab Emirates,Middle East,Healthcare,Mid-Market,201-1000,22-05-2021,Content Marketing,2024-01,Active,
+CUS-00260,Ridgeflow Digital,Germany,Europe,Financial Services,SMB,51-200,02-03-2023,Organic Search,2024-01,Active,
+CUS-00261,Willowsystems Industries,United States,North America,Logistics,SMB,1-50,11-10-2022,Paid Search,2024-01,Churned,01-09-2024
+CUS-00262,Bluelogic Holdings,United States,North America,Professional Services,SMB,1-50,17-07-2023,Partner Referral,2024-01,Churned,01-07-2025
+CUS-00263,Vertexwave Digital,United States,North America,Manufacturing,Enterprise,1001-5000,16-03-2021,Outbound Sales,2024-01,Active,
+CUS-00264,Willowworks Holdings,Netherlands,Europe,Energy & Utilities,Mid-Market,201-1000,07-02-2021,Partner Referral,2024-01,Active,
+CUS-00265,Terrawave Partners,Qatar,Middle East,E-Commerce,SMB,1-50,22-09-2023,Paid Search,2024-01,Active,
+CUS-00266,Quantumedge Technologies,United Arab Emirates,Middle East,Media & Entertainment,SMB,51-200,31-05-2023,Organic Search,2024-01,Churned,01-07-2025
+CUS-00267,Harbormark Partners,United States,North America,Financial Services,Mid-Market,201-1000,17-11-2022,Outbound Sales,2024-01,Active,
+CUS-00268,Ridgepeak Technologies,Egypt,Middle East,Manufacturing,Mid-Market,201-1000,11-02-2022,Paid Search,2024-01,Churned,01-03-2024
+CUS-00269,Forgestone Holdings,United States,North America,E-Commerce,SMB,1-50,07-08-2023,Organic Search,2024-01,Active,
+CUS-00270,Latticewave Solutions,United States,North America,Professional Services,SMB,51-200,20-04-2022,Paid Search,2024-01,Active,
+CUS-00271,Ivorygrid Technologies,France,Europe,Manufacturing,Mid-Market,201-1000,04-03-2022,Organic Search,2024-01,Active,
+CUS-00272,Orbitsphere Partners,India,Asia-Pacific,Education,SMB,51-200,26-05-2022,Partner Referral,2024-01,Churned,01-01-2026
+CUS-00273,Orbitpeak Group,United States,North America,Logistics,SMB,1-50,06-02-2023,Organic Search,2024-01,Active,
+CUS-00274,Orbitspark Solutions,Singapore,Asia-Pacific,Education,Mid-Market,201-1000,07-01-2022,Partner Referral,2024-01,Active,
+CUS-00275,Ridgeedge Technologies,Saudi Arabia,Middle East,E-Commerce,SMB,1-50,24-01-2022,Partner Referral,2024-01,Active,
+CUS-00276,Embersync Partners,United States,North America,Retail,Enterprise,5000+,20-02-2023,Outbound Sales,2024-01,Active,
+CUS-00277,Orbitgrid Technologies,Germany,Europe,Media & Entertainment,Mid-Market,201-1000,27-09-2022,Paid Search,2024-01,Active,
+CUS-00278,Asterline Industries,United States,North America,Manufacturing,Mid-Market,201-1000,29-11-2023,Events,2024-01,Active,
+CUS-00279,Latticelogic Technologies,India,Asia-Pacific,Manufacturing,SMB,1-50,05-06-2023,Product Referral,2024-01,Churned,01-08-2024
+CUS-00280,Quartzbase Partners,United States,North America,Financial Services,SMB,51-200,13-01-2023,App Marketplace,2024-01,Active,
+CUS-00281,Terracore Solutions,Canada,North America,Software & IT,SMB,51-200,05-04-2022,Product Referral,2024-01,Active,
+CUS-00282,Sablelink Solutions,South Africa,Africa,Media & Entertainment,Mid-Market,201-1000,24-09-2022,Paid Search,2024-01,Active,
+CUS-00283,Forgeflow,Spain,Europe,Financial Services,SMB,51-200,18-12-2023,Partner Referral,2024-01,Active,
+CUS-00284,Ridgeedge Partners,Nigeria,Africa,Software & IT,SMB,51-200,03-07-2021,Partner Referral,2024-01,Churned,01-02-2025
+CUS-00285,Vantagelogic Digital,United States,North America,Software & IT,Enterprise,5000+,16-02-2022,Partner Referral,2024-01,Active,
+CUS-00286,Asterstone Digital,United States,North America,Energy & Utilities,Mid-Market,201-1000,06-12-2023,Partner Referral,2024-01,Active,
+CUS-00287,Ridgelink Digital,United States,North America,Manufacturing,Enterprise,1001-5000,17-07-2023,Content Marketing,2024-01,Active,
+CUS-00288,Astertrack,Australia,Asia-Pacific,Software & IT,SMB,51-200,23-11-2021,Organic Search,2024-01,Churned,01-12-2024
+CUS-00289,Harborcraft Group,Singapore,Asia-Pacific,Software & IT,SMB,1-50,23-02-2023,Outbound Sales,2024-01,Active,
+CUS-00290,Copperworks Partners,United Arab Emirates,Middle East,Financial Services,Mid-Market,201-1000,09-06-2021,Events,2024-01,Active,
+CUS-00291,Summitline,Netherlands,Europe,Manufacturing,Mid-Market,201-1000,25-06-2022,Content Marketing,2024-01,Active,
+CUS-00292,Embergrid Digital,Spain,Europe,Media & Entertainment,SMB,51-200,09-01-2022,Organic Search,2024-01,Churned,01-08-2025
+CUS-00293,Novalabs Solutions,Germany,Europe,Media & Entertainment,SMB,1-50,09-07-2021,Content Marketing,2024-01,Active,
+CUS-00294,Terrasystems Technologies,Australia,Asia-Pacific,Professional Services,SMB,1-50,29-01-2023,Partner Referral,2024-01,Active,
+CUS-00295,Novasync,France,Europe,Professional Services,SMB,1-50,02-08-2023,Organic Search,2024-01,Active,
+CUS-00296,Forgehub Holdings,Germany,Europe,Media & Entertainment,SMB,51-200,12-09-2021,Organic Search,2024-01,Churned,01-06-2024
+CUS-00297,Cedarcore Industries,Sweden,Europe,Healthcare,SMB,51-200,19-12-2021,Paid Search,2024-01,Active,
+CUS-00298,Junipermark Industries,Singapore,Asia-Pacific,Logistics,SMB,1-50,05-03-2021,Organic Search,2024-01,Active,
+CUS-00299,Orbitscale Group,Australia,Asia-Pacific,Software & IT,SMB,51-200,09-05-2023,Product Referral,2024-01,Churned,01-06-2026
+CUS-00300,Auroralabs Partners,United States,North America,E-Commerce,Mid-Market,201-1000,17-03-2022,App Marketplace,2024-01,Active,
+CUS-00301,Sablecraft Holdings,Germany,Europe,Logistics,Mid-Market,201-1000,23-04-2023,Organic Search,2024-01,Active,
+CUS-00302,Latticemark Holdings,United Kingdom,Europe,Manufacturing,SMB,51-200,27-09-2022,Paid Search,2024-01,Active,
+CUS-00303,Terrahub Industries,Mexico,Latin America,Logistics,Mid-Market,201-1000,16-08-2021,Content Marketing,2024-01,Active,
+CUS-00304,Harborwind Industries,Canada,North America,Healthcare,SMB,1-50,27-02-2021,Product Referral,2024-01,Churned,01-12-2024
+CUS-00305,Brightlogic,India,Asia-Pacific,Professional Services,SMB,51-200,09-06-2022,Content Marketing,2024-01,Churned,01-01-2025
+CUS-00306,Zenithpoint Holdings,United States,North America,Manufacturing,SMB,51-200,05-04-2022,Paid Search,2024-01,Active,
+CUS-00307,Ivoryline Digital,Germany,Europe,Logistics,SMB,1-50,11-10-2022,Content Marketing,2024-01,Active,
+CUS-00308,Novapeak Holdings,Germany,Europe,Real Estate,SMB,51-200,06-03-2021,Paid Search,2024-01,Active,
+CUS-00309,Astermark Digital,Saudi Arabia,Middle East,Software & IT,SMB,1-50,26-06-2021,Product Referral,2024-01,Active,
+CUS-00310,Junipersphere Industries,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,05-10-2022,Product Referral,2024-01,Churned,01-03-2025
+CUS-00311,Bluelink Group,United Arab Emirates,Middle East,Logistics,SMB,1-50,05-06-2023,Partner Referral,2024-01,Active,
+CUS-00312,Quantumtrack Partners,India,Asia-Pacific,Healthcare,SMB,51-200,21-12-2023,Product Referral,2024-01,Active,
+CUS-00313,Zenithcraft Holdings,Japan,Asia-Pacific,Retail,SMB,51-200,13-10-2023,Paid Search,2024-01,Active,
+CUS-00314,Bluehub Solutions,United States,North America,Healthcare,Enterprise,5000+,27-07-2022,Product Referral,2024-01,Active,
+CUS-00315,Keystoneworks Group,Brazil,Latin America,Software & IT,Enterprise,5000+,13-08-2023,Partner Referral,2024-01,Active,
+CUS-00316,Helixshift,France,Europe,Financial Services,SMB,51-200,07-10-2021,Content Marketing,2024-01,Churned,01-04-2024
+CUS-00317,Basaltsync Technologies,Singapore,Asia-Pacific,Financial Services,SMB,51-200,02-06-2023,Paid Search,2024-01,Active,
+CUS-00318,Everestwave,United Kingdom,Europe,Real Estate,SMB,51-200,24-04-2021,Partner Referral,2024-01,Churned,01-09-2025
+CUS-00319,Ridgemark Digital,Saudi Arabia,Middle East,Education,SMB,1-50,08-01-2021,Events,2024-01,Churned,01-09-2024
+CUS-00320,Terracore Digital,Qatar,Middle East,Software & IT,SMB,1-50,11-06-2021,Organic Search,2024-01,Churned,01-05-2024
+CUS-00321,Summittrack Partners,United States,North America,Healthcare,Mid-Market,201-1000,05-02-2023,Organic Search,2024-01,Active,
+CUS-00322,Emberfield Holdings,Egypt,Middle East,Manufacturing,SMB,51-200,18-05-2023,Product Referral,2024-01,Active,
+CUS-00323,Ivorycore Holdings,Japan,Asia-Pacific,Education,SMB,1-50,03-12-2023,Events,2024-01,Active,
+CUS-00324,Granitereach Solutions,Australia,Asia-Pacific,E-Commerce,SMB,51-200,27-06-2022,Organic Search,2024-01,Churned,01-03-2024
+CUS-00325,Cedarsync Solutions,Saudi Arabia,Middle East,Manufacturing,Mid-Market,201-1000,26-01-2021,Organic Search,2024-01,Churned,01-01-2025
+CUS-00326,Blueworks,Qatar,Middle East,Professional Services,SMB,1-50,15-10-2021,Product Referral,2024-01,Active,
+CUS-00327,Ivorystone,United States,North America,Manufacturing,Mid-Market,201-1000,01-12-2021,Product Referral,2024-01,Active,
+CUS-00328,Quantumflow Technologies,India,Asia-Pacific,Real Estate,SMB,51-200,28-03-2023,Outbound Sales,2024-01,Active,
+CUS-00329,Zenithsync Group,Saudi Arabia,Middle East,Financial Services,Enterprise,5000+,27-11-2022,Outbound Sales,2024-01,Active,
+CUS-00330,Summitsphere Group,India,Asia-Pacific,Manufacturing,SMB,51-200,26-01-2021,App Marketplace,2024-01,Active,
+CUS-00331,Keystonebridge Digital,United States,North America,Retail,SMB,1-50,22-05-2023,Content Marketing,2024-01,Active,
+CUS-00332,Onyxgrid Industries,United States,North America,Manufacturing,Mid-Market,201-1000,19-04-2023,Outbound Sales,2024-01,Active,
+CUS-00333,Orbitpath Solutions,United States,North America,Software & IT,Enterprise,5000+,16-02-2021,Organic Search,2024-01,Churned,01-07-2025
+CUS-00334,Basaltstone Technologies,Japan,Asia-Pacific,Professional Services,SMB,51-200,13-12-2022,App Marketplace,2024-01,Active,
+CUS-00335,Granitestone Holdings,Germany,Europe,Retail,SMB,51-200,15-01-2022,Content Marketing,2024-01,Churned,01-04-2025
+CUS-00336,Coppershift Industries,Netherlands,Europe,Manufacturing,Enterprise,1001-5000,09-05-2021,Organic Search,2024-01,Active,
+CUS-00337,Forgeedge Partners,France,Europe,Software & IT,Mid-Market,201-1000,28-05-2021,Organic Search,2024-01,Active,
+CUS-00338,Embergate Solutions,Australia,Asia-Pacific,E-Commerce,SMB,1-50,07-12-2021,Outbound Sales,2024-01,Active,
+CUS-00339,Ridgeshift Partners,Brazil,Latin America,Financial Services,SMB,51-200,15-11-2021,Content Marketing,2024-01,Active,
+CUS-00340,Northcraft,Egypt,Middle East,E-Commerce,Mid-Market,201-1000,06-09-2023,Organic Search,2024-01,Churned,01-02-2026
+CUS-00341,Keystoneline Holdings,Singapore,Asia-Pacific,E-Commerce,SMB,1-50,27-04-2021,App Marketplace,2024-01,Active,
+CUS-00342,Harborworks Group,United Arab Emirates,Middle East,Professional Services,Mid-Market,201-1000,14-06-2021,Events,2024-01,Active,
+CUS-00343,Everestpath Digital,United Kingdom,Europe,Energy & Utilities,Mid-Market,201-1000,03-02-2021,Product Referral,2024-01,Active,
+CUS-00344,Novahub Technologies,Japan,Asia-Pacific,Financial Services,Enterprise,1001-5000,11-08-2021,Outbound Sales,2024-01,Active,
+CUS-00345,Auroraworks Digital,United Arab Emirates,Middle East,Healthcare,Mid-Market,201-1000,17-08-2021,Organic Search,2024-01,Active,
+CUS-00346,Ridgewave Solutions,Singapore,Asia-Pacific,E-Commerce,SMB,51-200,25-09-2021,Organic Search,2024-01,Active,
+CUS-00347,Ridgecraft Group,France,Europe,Professional Services,SMB,1-50,07-02-2021,Events,2024-01,Active,
+CUS-00348,Novawave Digital,United Kingdom,Europe,Financial Services,Mid-Market,201-1000,01-12-2023,Organic Search,2024-01,Active,
+CUS-00349,Granitebase Technologies,Nigeria,Africa,Logistics,SMB,51-200,10-08-2022,Organic Search,2024-01,Active,
+CUS-00350,Willowspark Group,Netherlands,Europe,Financial Services,Mid-Market,201-1000,13-05-2022,App Marketplace,2024-01,Active,
+CUS-00351,Basaltedge Partners,United States,North America,Financial Services,SMB,1-50,24-02-2022,Organic Search,2024-01,Active,
+CUS-00352,Sableline,United States,North America,Logistics,SMB,51-200,17-03-2023,Content Marketing,2024-01,Churned,01-02-2024
+CUS-00353,Asterwind Technologies,United Kingdom,Europe,Manufacturing,SMB,1-50,23-03-2023,Events,2024-01,Churned,01-03-2024
+CUS-00354,Forgemark Digital,United Arab Emirates,Middle East,Logistics,Mid-Market,201-1000,25-04-2021,Organic Search,2024-01,Active,
+CUS-00355,Forgelink Industries,United States,North America,E-Commerce,SMB,1-50,19-05-2022,Partner Referral,2024-01,Churned,01-12-2025
+CUS-00356,Orbitlink Group,India,Asia-Pacific,Education,Mid-Market,201-1000,19-05-2021,Organic Search,2024-01,Churned,01-09-2024
+CUS-00357,Harborcore Group,France,Europe,Professional Services,SMB,51-200,30-05-2023,Events,2024-01,Churned,01-04-2024
+CUS-00358,Nimbuslink,Nigeria,Africa,Media & Entertainment,SMB,1-50,26-06-2023,App Marketplace,2024-01,Active,
+CUS-00359,Falconwind Technologies,Germany,Europe,Education,Mid-Market,201-1000,22-03-2021,Outbound Sales,2024-01,Active,
+CUS-00360,Ivoryscale Digital,Germany,Europe,Energy & Utilities,SMB,51-200,14-03-2022,Organic Search,2024-01,Active,
+CUS-00361,Pioneersync Group,United States,North America,Real Estate,Mid-Market,201-1000,06-01-2023,Product Referral,2024-01,Active,
+CUS-00362,Forgeshift Industries,South Africa,Africa,Healthcare,Mid-Market,201-1000,06-02-2021,Organic Search,2024-01,Active,
+CUS-00363,Emberworks Partners,United States,North America,Software & IT,SMB,1-50,10-07-2021,Partner Referral,2024-01,Active,
+CUS-00364,Orbitbridge Industries,Qatar,Middle East,Software & IT,SMB,1-50,02-08-2023,Organic Search,2024-01,Active,
+CUS-00365,Pioneerpeak Industries,Nigeria,Africa,Healthcare,Mid-Market,201-1000,06-05-2023,Events,2024-01,Active,
+CUS-00366,Quantumlink Industries,Egypt,Middle East,Real Estate,Mid-Market,201-1000,18-05-2023,Product Referral,2024-01,Churned,01-10-2024
+CUS-00367,Latticereach Group,France,Europe,Logistics,Mid-Market,201-1000,18-03-2023,Organic Search,2024-01,Churned,01-10-2024
+CUS-00368,Keystoneshift Digital,Germany,Europe,Logistics,Mid-Market,201-1000,25-05-2021,Organic Search,2024-01,Active,
+CUS-00369,Summitpeak Holdings,United States,North America,Healthcare,SMB,51-200,03-08-2022,Partner Referral,2024-01,Active,
+CUS-00370,Orbitedge Solutions,Sweden,Europe,Education,SMB,51-200,26-01-2023,Paid Search,2024-01,Churned,01-12-2024
+CUS-00371,Falcontrack Holdings,United States,North America,Professional Services,Mid-Market,201-1000,11-03-2023,Partner Referral,2024-01,Active,
+CUS-00372,Ridgebase Holdings,United States,North America,E-Commerce,SMB,51-200,02-11-2023,Organic Search,2024-01,Active,
+CUS-00373,Quartzspark Group,Germany,Europe,Financial Services,SMB,51-200,30-12-2023,Events,2024-01,Active,
+CUS-00374,Helixpeak Group,Egypt,Middle East,Software & IT,SMB,51-200,13-11-2021,App Marketplace,2024-01,Active,
+CUS-00375,Zenithlabs Digital,United Kingdom,Europe,Retail,SMB,51-200,04-05-2021,Paid Search,2024-01,Active,
+CUS-00376,Novasystems Technologies,Netherlands,Europe,Professional Services,SMB,1-50,16-11-2023,Outbound Sales,2024-01,Churned,01-02-2025
+CUS-00377,Deltashift Partners,India,Asia-Pacific,Education,Mid-Market,201-1000,15-09-2023,Paid Search,2024-01,Active,
+CUS-00378,Helixhub Digital,India,Asia-Pacific,Manufacturing,Mid-Market,201-1000,23-02-2023,Product Referral,2024-01,Active,
+CUS-00379,Onyxedge Digital,Singapore,Asia-Pacific,Education,Enterprise,5000+,09-02-2023,Content Marketing,2024-01,Active,
+CUS-00380,Forgepeak Partners,South Africa,Africa,Logistics,SMB,51-200,29-08-2023,Product Referral,2024-01,Churned,01-02-2024
+CUS-00381,Keystonelink Group,Mexico,Latin America,Education,SMB,51-200,22-12-2023,Paid Search,2024-01,Active,
+CUS-00382,Nimbuspath Holdings,Brazil,Latin America,Logistics,SMB,51-200,05-03-2022,Organic Search,2024-01,Churned,01-12-2024
+CUS-00383,Brightfield Technologies,Sweden,Europe,Healthcare,SMB,51-200,08-07-2021,Organic Search,2024-01,Active,
+CUS-00384,Latticeedge,Netherlands,Europe,Logistics,Mid-Market,201-1000,09-08-2022,App Marketplace,2024-01,Active,
+CUS-00385,Basaltgate Group,United States,North America,Manufacturing,SMB,1-50,02-02-2022,Content Marketing,2024-01,Churned,01-07-2025
+CUS-00386,Coppermark Partners,Mexico,Latin America,E-Commerce,Mid-Market,201-1000,04-06-2023,Outbound Sales,2024-01,Active,
+CUS-00387,Juniperwind Industries,Japan,Asia-Pacific,Energy & Utilities,Enterprise,1001-5000,16-03-2021,Organic Search,2024-01,Active,
+CUS-00388,Forgesystems Digital,Netherlands,Europe,Media & Entertainment,SMB,1-50,17-10-2021,Product Referral,2024-01,Churned,01-09-2025
+CUS-00389,Cedarreach Solutions,Nigeria,Africa,Professional Services,SMB,51-200,21-07-2021,Content Marketing,2024-01,Churned,01-06-2024
+CUS-00390,Coppertrack,United Kingdom,Europe,Media & Entertainment,Mid-Market,201-1000,08-10-2022,Events,2024-01,Churned,01-10-2024
+CUS-00391,Vantagesync Industries,United States,North America,Retail,SMB,1-50,05-09-2022,Product Referral,2024-01,Churned,01-09-2025
+CUS-00392,Quartzscale Holdings,India,Asia-Pacific,E-Commerce,Enterprise,5000+,28-06-2023,Content Marketing,2024-01,Churned,01-06-2026
+CUS-00393,Ridgelabs Technologies,Brazil,Latin America,Professional Services,Enterprise,1001-5000,08-02-2023,Organic Search,2024-01,Active,
+CUS-00394,Cedartrack Technologies,France,Europe,E-Commerce,Mid-Market,201-1000,02-07-2021,Paid Search,2024-01,Churned,01-02-2025
+CUS-00395,Orbitwind Solutions,France,Europe,Financial Services,SMB,51-200,14-09-2023,App Marketplace,2024-01,Churned,01-05-2025
+CUS-00396,Junipersync Digital,Mexico,Latin America,Manufacturing,SMB,51-200,01-11-2023,Paid Search,2024-01,Churned,01-11-2024
+CUS-00397,Deltaflow Digital,United Kingdom,Europe,Logistics,Enterprise,1001-5000,24-08-2021,Product Referral,2024-01,Active,
+CUS-00398,Forgemark Partners,South Africa,Africa,Financial Services,Mid-Market,201-1000,26-06-2021,Organic Search,2024-01,Active,
+CUS-00399,Umberpoint Technologies,United States,North America,Energy & Utilities,Enterprise,1001-5000,13-05-2022,Product Referral,2024-01,Churned,01-04-2024
+CUS-00400,Granitelabs Industries,United Kingdom,Europe,Real Estate,SMB,1-50,09-10-2021,Partner Referral,2024-01,Active,
+CUS-00401,Emberwind Technologies,United States,North America,Energy & Utilities,Mid-Market,201-1000,28-04-2022,Organic Search,2024-01,Active,
+CUS-00402,Copperlabs Partners,United Kingdom,Europe,Financial Services,Enterprise,5000+,22-10-2023,Content Marketing,2024-01,Churned,01-03-2026
+CUS-00403,Cedarmark Holdings,India,Asia-Pacific,Manufacturing,Mid-Market,201-1000,30-09-2022,Content Marketing,2024-01,Churned,01-05-2024
+CUS-00404,Brightsystems Solutions,South Africa,Africa,Professional Services,SMB,1-50,31-10-2023,Partner Referral,2024-01,Active,
+CUS-00405,Sablepath Partners,South Africa,Africa,Logistics,Mid-Market,201-1000,08-09-2023,Paid Search,2024-01,Active,
+CUS-00406,Deltaline Group,Japan,Asia-Pacific,E-Commerce,Mid-Market,201-1000,26-10-2021,Outbound Sales,2024-01,Churned,01-07-2024
+CUS-00407,Cedarscale,United Kingdom,Europe,Software & IT,Mid-Market,201-1000,28-09-2023,Content Marketing,2024-01,Active,
+CUS-00408,Helixspark Partners,India,Asia-Pacific,Energy & Utilities,SMB,51-200,30-04-2023,Outbound Sales,2024-01,Active,
+CUS-00409,Cobaltsync Group,Germany,Europe,Media & Entertainment,SMB,51-200,07-04-2022,Paid Search,2024-01,Active,
+CUS-00410,Everestlabs Holdings,United Arab Emirates,Middle East,Financial Services,Enterprise,5000+,11-08-2022,Product Referral,2024-01,Active,
+CUS-00411,Falconstone,United States,North America,Real Estate,SMB,1-50,19-09-2021,Organic Search,2024-01,Churned,01-12-2025
+CUS-00412,Latticehub Technologies,United States,North America,Logistics,Mid-Market,201-1000,25-07-2022,Partner Referral,2024-01,Active,
+CUS-00413,Everestpeak Technologies,United Arab Emirates,Middle East,Education,SMB,51-200,10-05-2022,Organic Search,2024-01,Churned,01-12-2024
+CUS-00414,Meridiancraft Technologies,India,Asia-Pacific,Logistics,SMB,51-200,11-07-2021,Organic Search,2024-01,Active,
+CUS-00415,Pioneergate Holdings,India,Asia-Pacific,Software & IT,SMB,51-200,15-05-2021,Partner Referral,2024-01,Churned,01-12-2024
+CUS-00416,Forgemark,Qatar,Middle East,Logistics,Enterprise,1001-5000,01-07-2023,App Marketplace,2024-01,Active,
+CUS-00417,Vantagelink Solutions,India,Asia-Pacific,Healthcare,Enterprise,5000+,01-12-2023,Organic Search,2024-01,Active,
+CUS-00418,Orbitsystems Holdings,Saudi Arabia,Middle East,Manufacturing,Enterprise,5000+,01-05-2021,Organic Search,2024-01,Active,
+CUS-00419,Aurorasync Technologies,Germany,Europe,Manufacturing,Mid-Market,201-1000,14-03-2022,Product Referral,2024-01,Active,
+CUS-00420,Falconsphere Industries,Saudi Arabia,Middle East,E-Commerce,SMB,51-200,25-02-2023,App Marketplace,2024-01,Active,
+CUS-00421,Vertexlogic Industries,Australia,Asia-Pacific,Software & IT,SMB,51-200,25-06-2021,Paid Search,2024-01,Active,
+CUS-00422,Cedarline Digital,Spain,Europe,Financial Services,Mid-Market,201-1000,12-08-2021,Partner Referral,2024-01,Churned,01-02-2024
+CUS-00423,Northpoint Technologies,United States,North America,Software & IT,SMB,51-200,08-11-2022,Organic Search,2024-01,Active,
+CUS-00424,Summitshift Technologies,Singapore,Asia-Pacific,Financial Services,Enterprise,1001-5000,26-09-2022,Events,2024-01,Active,
+CUS-00425,Emberwave Group,United Kingdom,Europe,Energy & Utilities,Mid-Market,201-1000,25-07-2023,Organic Search,2024-01,Active,
+CUS-00426,Basaltpeak Partners,India,Asia-Pacific,Professional Services,Enterprise,1001-5000,16-02-2023,App Marketplace,2024-01,Active,
+CUS-00427,Northsphere Holdings,Mexico,Latin America,Real Estate,Mid-Market,201-1000,04-09-2022,Organic Search,2024-01,Churned,01-12-2025
+CUS-00428,Onyxshift Group,United Arab Emirates,Middle East,E-Commerce,SMB,51-200,09-10-2021,Content Marketing,2024-01,Active,
+CUS-00429,Umbermark Solutions,United States,North America,Energy & Utilities,SMB,51-200,17-09-2021,Outbound Sales,2024-01,Active,
+CUS-00430,Quartztrack,Japan,Asia-Pacific,Healthcare,SMB,51-200,05-07-2022,Content Marketing,2024-01,Churned,01-06-2024
+CUS-00431,Novagrid Technologies,Netherlands,Europe,Professional Services,Mid-Market,201-1000,02-06-2022,App Marketplace,2024-01,Active,
+CUS-00432,Northscale Technologies,United States,North America,Healthcare,SMB,1-50,07-03-2022,Partner Referral,2024-01,Active,
+CUS-00433,Basaltpath Holdings,India,Asia-Pacific,Manufacturing,SMB,51-200,10-02-2023,Outbound Sales,2024-01,Active,
+CUS-00434,Umberlink Group,Brazil,Latin America,Education,Mid-Market,201-1000,25-01-2021,Outbound Sales,2024-01,Active,
+CUS-00435,Ridgeline Holdings,United States,North America,E-Commerce,SMB,51-200,18-06-2021,Partner Referral,2024-01,Active,
+CUS-00436,Ridgeflow Industries,Qatar,Middle East,Energy & Utilities,SMB,1-50,25-11-2022,Partner Referral,2024-01,Churned,01-02-2024
+CUS-00437,Driftworks Holdings,Japan,Asia-Pacific,Software & IT,SMB,1-50,29-07-2021,Organic Search,2024-01,Active,
+CUS-00438,Willowpoint,Japan,Asia-Pacific,Logistics,Enterprise,1001-5000,22-06-2023,Paid Search,2024-01,Active,
+CUS-00439,Deltaline Digital,United States,North America,Logistics,Mid-Market,201-1000,07-09-2022,Events,2024-01,Active,
+CUS-00440,Quantumgate Technologies,Australia,Asia-Pacific,Software & IT,SMB,1-50,27-12-2023,Partner Referral,2024-01,Churned,01-06-2025
+CUS-00441,Umbershift,United Kingdom,Europe,Healthcare,Mid-Market,201-1000,18-02-2023,Organic Search,2024-01,Active,
+CUS-00442,Pioneerhub Partners,United States,North America,Retail,SMB,1-50,11-12-2023,App Marketplace,2024-01,Churned,01-08-2024
+CUS-00443,Harborscale Industries,United Arab Emirates,Middle East,Media & Entertainment,SMB,51-200,26-07-2021,Paid Search,2024-01,Active,
+CUS-00444,Brightfield Industries,United Kingdom,Europe,Financial Services,SMB,1-50,10-03-2021,Partner Referral,2024-01,Churned,01-04-2024
+CUS-00445,Cobalthub Digital,Netherlands,Europe,Manufacturing,Mid-Market,201-1000,30-05-2022,Organic Search,2024-01,Churned,01-04-2025
+CUS-00446,Terracore Group,Saudi Arabia,Middle East,E-Commerce,Mid-Market,201-1000,09-12-2023,Outbound Sales,2024-01,Churned,01-01-2025
+CUS-00447,Umberlabs Holdings,Sweden,Europe,Software & IT,SMB,1-50,23-01-2022,App Marketplace,2024-01,Active,
+CUS-00448,Sabletrack Technologies,Nigeria,Africa,Software & IT,Enterprise,5000+,10-03-2021,Organic Search,2024-01,Active,
+CUS-00449,Nimbuspath Partners,United States,North America,Healthcare,SMB,1-50,28-11-2022,Content Marketing,2024-01,Active,
+CUS-00450,Cobaltcraft Solutions,United States,North America,Healthcare,Mid-Market,201-1000,21-09-2022,Product Referral,2024-01,Active,
+CUS-00451,Sableworks Group,India,Asia-Pacific,Logistics,Mid-Market,201-1000,02-05-2023,Content Marketing,2024-01,Active,
+CUS-00452,Pioneerhub Digital,Nigeria,Africa,Media & Entertainment,Mid-Market,201-1000,14-11-2021,App Marketplace,2024-01,Active,
+CUS-00453,Pioneerpoint Technologies,Mexico,Latin America,Education,Enterprise,5000+,26-06-2023,Events,2024-01,Active,
+CUS-00454,Quantumline Digital,United States,North America,E-Commerce,SMB,51-200,08-05-2021,Product Referral,2024-01,Churned,01-09-2024
+CUS-00455,Coppercraft Digital,Germany,Europe,Healthcare,Mid-Market,201-1000,11-06-2023,Outbound Sales,2024-01,Active,
+CUS-00456,Orbitbase Digital,United Kingdom,Europe,Manufacturing,Enterprise,5000+,19-01-2022,Content Marketing,2024-01,Active,
+CUS-00457,Emberwind Industries,Germany,Europe,Manufacturing,Mid-Market,201-1000,19-06-2023,Paid Search,2024-01,Active,
+CUS-00458,Copperpath Partners,United States,North America,Healthcare,Mid-Market,201-1000,07-01-2023,Product Referral,2024-01,Active,
+CUS-00459,Copperspark,Egypt,Middle East,Retail,SMB,1-50,05-01-2022,Organic Search,2024-01,Churned,01-08-2025
+CUS-00460,Terrareach Holdings,United States,North America,E-Commerce,SMB,51-200,02-05-2022,Outbound Sales,2024-01,Churned,01-04-2025
+CUS-00461,Quartzhub Partners,United States,North America,Healthcare,SMB,1-50,25-10-2024,Content Marketing,2024-10,Active,
+CUS-00462,Meridianpoint Group,Brazil,Latin America,Energy & Utilities,Enterprise,5000+,26-07-2025,Events,2025-07,Active,
+CUS-00463,Aurorapath Digital,Australia,Asia-Pacific,Healthcare,Mid-Market,201-1000,03-07-2024,Organic Search,2024-07,Active,
+CUS-00464,Zenithhub Industries,United States,North America,Software & IT,SMB,1-50,10-07-2024,Paid Search,2024-07,Churned,01-02-2026
+CUS-00465,Umbercraft Holdings,France,Europe,Manufacturing,Enterprise,5000+,20-06-2026,Organic Search,2026-06,Active,
+CUS-00466,Zenithworks Holdings,United States,North America,Financial Services,Enterprise,1001-5000,25-05-2026,Outbound Sales,2026-05,Active,
+CUS-00467,Quartzstone Group,Sweden,Europe,Energy & Utilities,SMB,1-50,22-02-2026,Paid Search,2026-02,Active,
+CUS-00468,Asterpoint Partners,United Arab Emirates,Middle East,Financial Services,SMB,1-50,25-03-2025,Paid Search,2025-03,Active,
+CUS-00469,Meridianwind Solutions,United States,North America,E-Commerce,SMB,51-200,24-04-2026,Content Marketing,2026-04,Active,
+CUS-00470,Lumenscale Group,United States,North America,Education,Mid-Market,201-1000,18-11-2025,Organic Search,2025-11,Active,
+CUS-00471,Bluecraft Holdings,Germany,Europe,Manufacturing,SMB,51-200,12-05-2025,Paid Search,2025-05,Churned,01-04-2026
+CUS-00472,Quartzline Solutions,United States,North America,Professional Services,SMB,51-200,12-10-2025,App Marketplace,2025-10,Active,
+CUS-00473,Nimbusflow,United States,North America,E-Commerce,SMB,1-50,27-11-2024,Organic Search,2024-11,Active,
+CUS-00474,Vertexfield Holdings,Canada,North America,Healthcare,Mid-Market,201-1000,03-05-2025,Outbound Sales,2025-05,Active,
+CUS-00475,Ridgespark,Saudi Arabia,Middle East,Logistics,Mid-Market,201-1000,12-02-2026,Paid Search,2026-02,Active,
+CUS-00476,Everestsphere Group,United Kingdom,Europe,Software & IT,SMB,1-50,12-03-2026,Organic Search,2026-03,Active,
+CUS-00477,Meridiangrid Group,Singapore,Asia-Pacific,E-Commerce,SMB,51-200,20-08-2025,Outbound Sales,2025-08,Active,
+CUS-00478,Coppersync Technologies,United States,North America,Software & IT,SMB,51-200,28-09-2024,Paid Search,2024-09,Churned,01-10-2024
+CUS-00479,Astergrid,United Kingdom,Europe,Energy & Utilities,SMB,1-50,11-03-2024,Product Referral,2024-03,Churned,01-04-2026
+CUS-00480,Cedarline Partners,Germany,Europe,Real Estate,Mid-Market,201-1000,02-04-2026,Paid Search,2026-04,Active,
+CUS-00481,Brightbase Technologies,Japan,Asia-Pacific,Software & IT,SMB,1-50,02-01-2026,Organic Search,2026-01,Churned,01-02-2026
+CUS-00482,Cedarstone Digital,Sweden,Europe,Education,SMB,1-50,17-02-2025,Outbound Sales,2025-02,Active,
+CUS-00483,Orbitbase Partners,Japan,Asia-Pacific,Manufacturing,Mid-Market,201-1000,16-07-2024,Events,2024-07,Churned,01-10-2024
+CUS-00484,Summitlabs Technologies,Germany,Europe,Healthcare,SMB,1-50,16-06-2025,Content Marketing,2025-06,Active,
+CUS-00485,Ivorylabs Partners,United Arab Emirates,Middle East,Healthcare,SMB,51-200,26-01-2025,Organic Search,2025-01,Active,
+CUS-00486,Brightsync Industries,Germany,Europe,Retail,SMB,1-50,18-10-2025,Organic Search,2025-10,Active,
+CUS-00487,Latticepoint Holdings,Germany,Europe,E-Commerce,SMB,1-50,29-10-2025,Organic Search,2025-10,Churned,01-11-2025
+CUS-00488,Orbitgrid,Saudi Arabia,Middle East,Healthcare,SMB,51-200,02-10-2024,Outbound Sales,2024-10,Churned,01-02-2026
+CUS-00489,Driftpeak Holdings,Canada,North America,Financial Services,SMB,51-200,16-12-2025,Content Marketing,2025-12,Active,
+CUS-00490,Everestsystems Holdings,Nigeria,Africa,Software & IT,SMB,51-200,27-06-2026,Content Marketing,2026-06,Active,
+CUS-00491,Emberpoint Technologies,United Kingdom,Europe,Manufacturing,Mid-Market,201-1000,25-03-2025,Events,2025-03,Active,
+CUS-00492,Brightgrid Holdings,Germany,Europe,Media & Entertainment,Enterprise,1001-5000,20-12-2024,Content Marketing,2024-12,Churned,01-12-2025
+CUS-00493,Driftlogic Digital,Mexico,Latin America,Financial Services,Mid-Market,201-1000,30-03-2025,Organic Search,2025-03,Active,
+CUS-00494,Ridgeshift Digital,Germany,Europe,Financial Services,SMB,51-200,26-01-2024,App Marketplace,2024-01,Churned,01-03-2024
+CUS-00495,Onyxbridge Solutions,United States,North America,Software & IT,SMB,51-200,16-11-2025,Content Marketing,2025-11,Active,
+CUS-00496,Deltacore Holdings,Saudi Arabia,Middle East,Financial Services,SMB,1-50,12-10-2024,App Marketplace,2024-10,Active,
+CUS-00497,Helixfield Solutions,Germany,Europe,Manufacturing,Mid-Market,201-1000,15-03-2025,Organic Search,2025-03,Active,
+CUS-00498,Orbitlogic Partners,United States,North America,Software & IT,SMB,51-200,11-06-2025,Content Marketing,2025-06,Churned,01-01-2026
+CUS-00499,Quantumshift Group,United States,North America,Professional Services,SMB,1-50,28-02-2025,Partner Referral,2025-02,Active,
+CUS-00500,Vantagecore Digital,India,Asia-Pacific,Healthcare,Mid-Market,201-1000,23-04-2025,Outbound Sales,2025-04,Active,
+CUS-00501,Vantagehub Digital,Qatar,Middle East,Software & IT,SMB,1-50,30-11-2025,Paid Search,2025-11,Active,
+CUS-00502,Ivoryedge Industries,United States,North America,Healthcare,SMB,1-50,21-11-2025,Organic Search,2025-11,Churned,01-02-2026
+CUS-00503,Novaflow Digital,France,Europe,Software & IT,SMB,1-50,09-07-2025,App Marketplace,2025-07,Active,
+CUS-00504,Terralogic Industries,Mexico,Latin America,Education,Enterprise,5000+,21-02-2025,Organic Search,2025-02,Active,
+CUS-00505,Emberlink Technologies,Spain,Europe,Financial Services,Mid-Market,201-1000,03-07-2025,Events,2025-07,Active,
+CUS-00506,Lumenstone,Sweden,Europe,Software & IT,Mid-Market,201-1000,21-01-2026,App Marketplace,2026-01,Active,
+CUS-00507,Copperwind Partners,Japan,Asia-Pacific,Media & Entertainment,SMB,1-50,29-01-2026,Organic Search,2026-01,Churned,01-02-2026
+CUS-00508,Bluesync Solutions,United Kingdom,Europe,Healthcare,SMB,1-50,20-05-2026,App Marketplace,2026-05,Active,
+CUS-00509,Cobaltpoint,United States,North America,Financial Services,SMB,1-50,11-04-2024,Content Marketing,2024-04,Active,
+CUS-00510,Basalttrack Technologies,Netherlands,Europe,Software & IT,Enterprise,5000+,19-12-2025,Partner Referral,2025-12,Active,
+CUS-00511,Vertexscale Partners,Germany,Europe,Media & Entertainment,Mid-Market,201-1000,02-12-2024,Partner Referral,2024-12,Active,
+CUS-00512,Willowmark,Canada,North America,Financial Services,Mid-Market,201-1000,23-11-2024,Partner Referral,2024-11,Active,
+CUS-00513,Cedarsync Digital,Canada,North America,Retail,Mid-Market,201-1000,28-01-2026,Outbound Sales,2026-01,Active,
+CUS-00514,Keystonegate Technologies,Egypt,Middle East,Financial Services,Enterprise,5000+,27-11-2024,Paid Search,2024-11,Active,
+CUS-00515,Quantumscale,Germany,Europe,Logistics,SMB,1-50,15-11-2024,Content Marketing,2024-11,Active,
+CUS-00516,Nimbusfield Technologies,India,Asia-Pacific,Software & IT,SMB,51-200,09-01-2026,Events,2026-01,Churned,01-03-2026
+CUS-00517,Vertexbridge Holdings,United States,North America,Media & Entertainment,SMB,1-50,13-05-2024,Partner Referral,2024-05,Active,
+CUS-00518,Quartzworks Solutions,Japan,Asia-Pacific,E-Commerce,Enterprise,5000+,20-04-2026,Content Marketing,2026-04,Active,
+CUS-00519,Harborlogic Holdings,United States,North America,Financial Services,SMB,51-200,14-11-2025,Partner Referral,2025-11,Active,
+CUS-00520,Deltascale Industries,Nigeria,Africa,Media & Entertainment,Mid-Market,201-1000,05-04-2025,Product Referral,2025-04,Churned,01-12-2025
+CUS-00521,Helixwave,Germany,Europe,Manufacturing,Enterprise,5000+,01-10-2025,App Marketplace,2025-10,Active,
+CUS-00522,Bluegrid Holdings,Nigeria,Africa,Manufacturing,SMB,51-200,31-05-2025,Partner Referral,2025-05,Active,
+CUS-00523,Keystoneedge Solutions,Egypt,Middle East,Retail,SMB,51-200,15-05-2026,Events,2026-05,Active,
+CUS-00524,Ridgelogic,United States,North America,Logistics,Mid-Market,201-1000,28-01-2025,Paid Search,2025-01,Active,
+CUS-00525,Willowlogic Technologies,United Arab Emirates,Middle East,Logistics,SMB,1-50,10-05-2026,Paid Search,2026-05,Active,
+CUS-00526,Lumenpeak Digital,France,Europe,Education,SMB,51-200,12-04-2026,Partner Referral,2026-04,Active,
+CUS-00527,Helixtrack Holdings,Netherlands,Europe,Retail,Enterprise,1001-5000,24-11-2025,Content Marketing,2025-11,Active,
+CUS-00528,Asterlink Technologies,United States,North America,Real Estate,SMB,1-50,22-09-2025,Outbound Sales,2025-09,Active,
+CUS-00529,Zenithcore Digital,United Kingdom,Europe,Media & Entertainment,Mid-Market,201-1000,05-12-2024,Outbound Sales,2024-12,Churned,01-12-2025
+CUS-00530,Onyxhub Industries,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,16-06-2026,Paid Search,2026-06,Active,
+CUS-00531,Everestflow Technologies,United Kingdom,Europe,Logistics,Enterprise,1001-5000,26-05-2025,App Marketplace,2025-05,Active,
+CUS-00532,Meridianfield Industries,Japan,Asia-Pacific,Logistics,Mid-Market,201-1000,26-07-2025,Outbound Sales,2025-07,Active,
+CUS-00533,Onyxpath Digital,India,Asia-Pacific,Retail,SMB,1-50,13-04-2025,Paid Search,2025-04,Active,
+CUS-00534,Copperbridge Group,Australia,Asia-Pacific,Manufacturing,Mid-Market,201-1000,27-04-2025,Organic Search,2025-04,Churned,01-04-2026
+CUS-00535,Orbitbase Holdings,India,Asia-Pacific,Professional Services,SMB,51-200,05-06-2024,Content Marketing,2024-06,Churned,01-04-2026
+CUS-00536,Terrasync Technologies,Qatar,Middle East,E-Commerce,SMB,1-50,19-03-2024,Paid Search,2024-03,Active,
+CUS-00537,Onyxscale Digital,France,Europe,Manufacturing,SMB,1-50,15-02-2025,Events,2025-02,Active,
+CUS-00538,Quartzstone Digital,Egypt,Middle East,Education,SMB,51-200,18-03-2026,Organic Search,2026-03,Churned,01-04-2026
+CUS-00539,Quantumstone,Nigeria,Africa,Financial Services,Mid-Market,201-1000,06-08-2025,Content Marketing,2025-08,Active,
+CUS-00540,Willowhub Industries,United States,North America,Logistics,SMB,51-200,05-02-2026,Partner Referral,2026-02,Active,
+CUS-00541,Lumensphere,Singapore,Asia-Pacific,Financial Services,Mid-Market,201-1000,04-12-2024,Partner Referral,2024-12,Churned,01-02-2026
+CUS-00542,Deltatrack Technologies,United States,North America,Professional Services,Mid-Market,201-1000,18-02-2026,Outbound Sales,2026-02,Active,
+CUS-00543,Keystoneedge Technologies,United Kingdom,Europe,Education,SMB,1-50,26-12-2024,Product Referral,2024-12,Churned,01-03-2026
+CUS-00544,Onyxmark Partners,India,Asia-Pacific,Education,Mid-Market,201-1000,30-03-2025,Organic Search,2025-03,Churned,01-06-2025
+CUS-00545,Zenithsync Industries,Netherlands,Europe,Manufacturing,SMB,51-200,09-01-2025,Organic Search,2025-01,Churned,01-06-2025
+CUS-00546,Nimbuspeak Solutions,United Arab Emirates,Middle East,Media & Entertainment,SMB,1-50,31-03-2026,Paid Search,2026-03,Churned,01-06-2026
+CUS-00547,Auroralink,Australia,Asia-Pacific,Retail,Mid-Market,201-1000,20-07-2024,Outbound Sales,2024-07,Churned,01-04-2025
+CUS-00548,Basaltbridge Solutions,Canada,North America,Media & Entertainment,SMB,1-50,15-06-2026,Content Marketing,2026-06,Active,
+CUS-00549,Everestgate Group,Singapore,Asia-Pacific,Professional Services,Enterprise,5000+,27-10-2024,Organic Search,2024-10,Active,
+CUS-00550,Pioneergrid Technologies,France,Europe,Retail,SMB,1-50,04-10-2025,Paid Search,2025-10,Active,
+CUS-00551,Lumenflow Group,France,Europe,Software & IT,SMB,1-50,12-01-2026,Organic Search,2026-01,Active,
+CUS-00552,Summitfield Digital,Netherlands,Europe,Software & IT,Mid-Market,201-1000,12-04-2025,Content Marketing,2025-04,Churned,01-08-2025
+CUS-00553,Falconbase,United States,North America,Retail,SMB,1-50,09-06-2024,Partner Referral,2024-06,Churned,01-03-2026
+CUS-00554,Aurorasphere Technologies,Netherlands,Europe,Logistics,SMB,51-200,07-05-2025,Partner Referral,2025-05,Churned,01-02-2026
+CUS-00555,Cobaltwave Industries,United Arab Emirates,Middle East,Healthcare,SMB,1-50,01-06-2026,Outbound Sales,2026-06,Active,
+CUS-00556,Juniperflow,Saudi Arabia,Middle East,Education,Mid-Market,201-1000,06-12-2025,Organic Search,2025-12,Active,
+CUS-00557,Ivoryedge Digital,Mexico,Latin America,Logistics,SMB,1-50,01-04-2024,Content Marketing,2024-04,Churned,01-07-2024
+CUS-00558,Novalabs,United Kingdom,Europe,E-Commerce,Enterprise,1001-5000,27-10-2024,Outbound Sales,2024-10,Active,
+CUS-00559,Brighthub Digital,India,Asia-Pacific,Healthcare,SMB,51-200,24-10-2025,Paid Search,2025-10,Churned,01-03-2026
+CUS-00560,Basaltbase Technologies,Qatar,Middle East,Healthcare,Enterprise,5000+,09-10-2025,Organic Search,2025-10,Active,
+CUS-00561,Driftlabs Holdings,Singapore,Asia-Pacific,Real Estate,SMB,1-50,05-01-2025,Outbound Sales,2025-01,Active,
+CUS-00562,Deltatrack Holdings,United States,North America,Software & IT,SMB,1-50,08-03-2025,App Marketplace,2025-03,Active,
+CUS-00563,Auroramark Technologies,United States,North America,Logistics,SMB,1-50,11-10-2025,Events,2025-10,Churned,01-03-2026
+CUS-00564,Northscale,India,Asia-Pacific,Professional Services,SMB,1-50,11-10-2025,App Marketplace,2025-10,Active,
+CUS-00565,Harborhub Industries,Singapore,Asia-Pacific,Software & IT,Enterprise,1001-5000,06-12-2025,Product Referral,2025-12,Active,
+CUS-00566,Helixgrid Technologies,Egypt,Middle East,Professional Services,Mid-Market,201-1000,21-02-2024,Partner Referral,2024-02,Churned,01-06-2026
+CUS-00567,Quartzfield Partners,United States,North America,E-Commerce,SMB,1-50,29-04-2026,Organic Search,2026-04,Churned,01-06-2026
+CUS-00568,Asterbridge Industries,Germany,Europe,Logistics,SMB,51-200,23-12-2025,App Marketplace,2025-12,Churned,01-03-2026
+CUS-00569,Meridiangate Holdings,United States,North America,Manufacturing,Mid-Market,201-1000,03-04-2025,Paid Search,2025-04,Active,
+CUS-00570,Granitescale Partners,Netherlands,Europe,Media & Entertainment,SMB,1-50,23-03-2024,Paid Search,2024-03,Active,
+CUS-00571,Latticeflow Group,France,Europe,Manufacturing,Mid-Market,201-1000,29-02-2024,Events,2024-02,Active,
+CUS-00572,Cedarwind Digital,Mexico,Latin America,Logistics,SMB,51-200,09-03-2026,App Marketplace,2026-03,Churned,01-06-2026
+CUS-00573,Brightworks Holdings,India,Asia-Pacific,Media & Entertainment,SMB,51-200,08-11-2024,App Marketplace,2024-11,Active,
+CUS-00574,Sablestone Partners,United States,North America,Software & IT,SMB,1-50,03-07-2024,Partner Referral,2024-07,Churned,01-11-2024
+CUS-00575,Northmark Digital,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,04-05-2024,App Marketplace,2024-05,Active,
+CUS-00576,Keystonemark Technologies,Sweden,Europe,Retail,Enterprise,5000+,11-01-2025,Partner Referral,2025-01,Active,
+CUS-00577,Zenithgrid Digital,Netherlands,Europe,Real Estate,SMB,1-50,08-01-2025,Events,2025-01,Active,
+CUS-00578,Ridgegate Technologies,Netherlands,Europe,E-Commerce,SMB,1-50,14-03-2026,Organic Search,2026-03,Active,
+CUS-00579,Bluefield Technologies,India,Asia-Pacific,E-Commerce,SMB,51-200,06-05-2026,Outbound Sales,2026-05,Active,
+CUS-00580,Summitscale Digital,France,Europe,Logistics,Enterprise,5000+,16-03-2026,App Marketplace,2026-03,Active,
+CUS-00581,Keystonescale Digital,Germany,Europe,Financial Services,SMB,51-200,19-05-2026,Outbound Sales,2026-05,Active,
+CUS-00582,Deltasync Solutions,United States,North America,Manufacturing,Enterprise,5000+,12-12-2024,Content Marketing,2024-12,Active,
+CUS-00583,Deltaworks Partners,Qatar,Middle East,Media & Entertainment,SMB,1-50,04-05-2025,Partner Referral,2025-05,Churned,01-06-2025
+CUS-00584,Bluelogic Technologies,Japan,Asia-Pacific,Software & IT,Mid-Market,201-1000,30-05-2026,Paid Search,2026-05,Active,
+CUS-00585,Cedartrack,Japan,Asia-Pacific,Financial Services,Mid-Market,201-1000,16-02-2025,Organic Search,2025-02,Churned,01-07-2025
+CUS-00586,Ivorybridge Solutions,United States,North America,E-Commerce,SMB,51-200,12-11-2024,Partner Referral,2024-11,Churned,01-10-2025
+CUS-00587,Summitspark Group,Brazil,Latin America,Media & Entertainment,Mid-Market,201-1000,05-02-2024,Outbound Sales,2024-02,Active,
+CUS-00588,Willowbase Digital,Australia,Asia-Pacific,Healthcare,SMB,51-200,18-01-2025,App Marketplace,2025-01,Active,
+CUS-00589,Nimbusfield Holdings,United Kingdom,Europe,Professional Services,Mid-Market,201-1000,20-04-2024,Outbound Sales,2024-04,Active,
+CUS-00590,Junipersphere Holdings,Australia,Asia-Pacific,Education,SMB,51-200,14-10-2025,Organic Search,2025-10,Active,
+CUS-00591,Vertexwave Solutions,Canada,North America,Education,SMB,1-50,31-05-2026,Organic Search,2026-05,Active,
+CUS-00592,Driftworks Digital,United Kingdom,Europe,Financial Services,Enterprise,1001-5000,28-01-2025,Product Referral,2025-01,Active,
+CUS-00593,Falconhub Holdings,Japan,Asia-Pacific,Software & IT,Mid-Market,201-1000,08-09-2024,Content Marketing,2024-09,Churned,01-10-2024
+CUS-00594,Forgescale Industries,Netherlands,Europe,E-Commerce,Mid-Market,201-1000,14-02-2026,Product Referral,2026-02,Active,
+CUS-00595,Vertexbridge Industries,Spain,Europe,Healthcare,Mid-Market,201-1000,05-01-2025,Outbound Sales,2025-01,Active,
+CUS-00596,Aurorabridge Group,Singapore,Asia-Pacific,Real Estate,SMB,1-50,30-08-2024,Outbound Sales,2024-08,Churned,01-05-2025
+CUS-00597,Orbitwave,United Kingdom,Europe,Software & IT,SMB,51-200,27-03-2026,Product Referral,2026-03,Active,
+CUS-00598,Vertexworks Partners,France,Europe,Retail,Enterprise,1001-5000,08-02-2024,App Marketplace,2024-02,Active,
+CUS-00599,Quartzpoint Holdings,Qatar,Middle East,Financial Services,Mid-Market,201-1000,18-06-2024,Organic Search,2024-06,Active,
+CUS-00600,Cobaltspark,South Africa,Africa,Real Estate,Mid-Market,201-1000,30-09-2024,Partner Referral,2024-09,Churned,01-12-2025
+CUS-00601,Zenithsync Digital,Spain,Europe,Financial Services,Mid-Market,201-1000,22-05-2025,Events,2025-05,Active,
+CUS-00602,Zenithedge Holdings,France,Europe,Media & Entertainment,Mid-Market,201-1000,06-05-2024,Content Marketing,2024-05,Churned,01-06-2026
+CUS-00603,Copperhub,Germany,Europe,Software & IT,SMB,1-50,28-12-2024,Events,2024-12,Churned,01-01-2025
+CUS-00604,Everestworks,United Arab Emirates,Middle East,Education,SMB,51-200,08-06-2026,App Marketplace,2026-06,Active,
+CUS-00605,Zenithfield Digital,United States,North America,Manufacturing,SMB,1-50,30-04-2026,Organic Search,2026-04,Active,
+CUS-00606,Vertexedge Partners,Germany,Europe,Financial Services,Mid-Market,201-1000,09-04-2024,Content Marketing,2024-04,Churned,01-05-2024
+CUS-00607,Junipertrack Partners,Germany,Europe,Professional Services,SMB,51-200,12-04-2024,Organic Search,2024-04,Active,
+CUS-00608,Onyxscale Solutions,United States,North America,Media & Entertainment,Enterprise,5000+,26-12-2025,Partner Referral,2025-12,Active,
+CUS-00609,Onyxlogic Partners,India,Asia-Pacific,Media & Entertainment,Mid-Market,201-1000,04-04-2026,Outbound Sales,2026-04,Active,
+CUS-00610,Novashift Group,India,Asia-Pacific,Software & IT,Mid-Market,201-1000,19-11-2024,Paid Search,2024-11,Active,
+CUS-00611,Willowstone Solutions,United Kingdom,Europe,Manufacturing,SMB,51-200,24-04-2025,Organic Search,2025-04,Active,
+CUS-00612,Sablereach Partners,United Arab Emirates,Middle East,Financial Services,Enterprise,1001-5000,14-08-2025,Content Marketing,2025-08,Active,
+CUS-00613,Ridgeshift Industries,Spain,Europe,Healthcare,SMB,51-200,05-01-2025,Partner Referral,2025-01,Churned,01-11-2025
+CUS-00614,Ivoryspark Industries,Australia,Asia-Pacific,Financial Services,SMB,51-200,25-01-2025,Content Marketing,2025-01,Active,
+CUS-00615,Forgepoint,Singapore,Asia-Pacific,Manufacturing,Enterprise,1001-5000,01-06-2024,Organic Search,2024-06,Active,
+CUS-00616,Vertexpeak Holdings,United States,North America,Education,SMB,51-200,09-10-2025,Content Marketing,2025-10,Active,
+CUS-00617,Driftlogic Partners,Singapore,Asia-Pacific,Software & IT,SMB,51-200,31-03-2026,Paid Search,2026-03,Active,
+CUS-00618,Everestworks Industries,Saudi Arabia,Middle East,Professional Services,SMB,51-200,03-01-2026,Events,2026-01,Active,
+CUS-00619,Onyxmark Solutions,United States,North America,Software & IT,Enterprise,5000+,23-11-2024,Organic Search,2024-11,Active,
+CUS-00620,Ridgeflow Group,Mexico,Latin America,Professional Services,SMB,51-200,13-06-2026,Partner Referral,2026-06,Active,
+CUS-00621,Lumenflow Partners,India,Asia-Pacific,Software & IT,SMB,1-50,29-04-2025,Paid Search,2025-04,Active,
+CUS-00622,Latticeshift Technologies,Canada,North America,Professional Services,Mid-Market,201-1000,05-06-2024,Partner Referral,2024-06,Active,
+CUS-00623,Keystoneline Digital,United States,North America,E-Commerce,SMB,1-50,25-02-2024,Partner Referral,2024-02,Active,
+CUS-00624,Copperscale Solutions,United Arab Emirates,Middle East,Education,Enterprise,5000+,20-05-2026,Content Marketing,2026-05,Active,
+CUS-00625,Northpath Technologies,India,Asia-Pacific,Software & IT,SMB,51-200,06-04-2025,Product Referral,2025-04,Active,
+CUS-00626,Keystonelabs Industries,Singapore,Asia-Pacific,Manufacturing,Mid-Market,201-1000,22-11-2025,Paid Search,2025-11,Active,
+CUS-00627,Astermark Technologies,France,Europe,Software & IT,SMB,1-50,12-05-2025,Content Marketing,2025-05,Churned,01-11-2025
+CUS-00628,Keystoneflow Group,United Kingdom,Europe,Real Estate,Mid-Market,201-1000,10-05-2024,App Marketplace,2024-05,Active,
+CUS-00629,Zenithpath Holdings,Germany,Europe,Retail,SMB,1-50,02-05-2024,Paid Search,2024-05,Active,
+CUS-00630,Embergate Technologies,Japan,Asia-Pacific,Financial Services,SMB,1-50,06-06-2024,Events,2024-06,Churned,01-12-2025
+CUS-00631,Basaltscale Industries,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,02-01-2025,Content Marketing,2025-01,Active,
+CUS-00632,Willowlabs,United States,North America,Media & Entertainment,SMB,1-50,11-05-2024,Partner Referral,2024-05,Active,
+CUS-00633,Keystoneshift Holdings,United States,North America,Education,SMB,1-50,05-12-2024,Organic Search,2024-12,Active,
+CUS-00634,Ridgepeak,Nigeria,Africa,Financial Services,Mid-Market,201-1000,19-03-2026,Organic Search,2026-03,Active,
+CUS-00635,Everestsystems Digital,United Kingdom,Europe,Healthcare,SMB,1-50,30-01-2025,Organic Search,2025-01,Churned,01-05-2026
+CUS-00636,Emberbridge Solutions,Canada,North America,Manufacturing,SMB,1-50,04-06-2025,Organic Search,2025-06,Active,
+CUS-00637,Terralabs Industries,Brazil,Latin America,Manufacturing,Enterprise,1001-5000,30-10-2024,Organic Search,2024-10,Active,
+CUS-00638,Ridgepath,United Arab Emirates,Middle East,Education,Mid-Market,201-1000,23-11-2025,Events,2025-11,Active,
+CUS-00639,Granitelabs Holdings,Spain,Europe,Manufacturing,SMB,51-200,13-01-2026,Events,2026-01,Active,
+CUS-00640,Driftsync Partners,India,Asia-Pacific,Retail,Mid-Market,201-1000,07-04-2025,App Marketplace,2025-04,Active,
+CUS-00641,Auroracraft Industries,United States,North America,Software & IT,Mid-Market,201-1000,01-02-2024,Content Marketing,2024-02,Active,
+CUS-00642,Orbitpath Group,Mexico,Latin America,E-Commerce,Mid-Market,201-1000,10-02-2024,Paid Search,2024-02,Churned,01-04-2024
+CUS-00643,Quantumgrid Holdings,Australia,Asia-Pacific,Software & IT,SMB,1-50,15-05-2026,Events,2026-05,Active,
+CUS-00644,Ivoryline Technologies,Qatar,Middle East,Education,SMB,51-200,15-09-2024,Product Referral,2024-09,Churned,01-02-2026
+CUS-00645,Nimbuslabs Partners,Nigeria,Africa,Financial Services,SMB,1-50,11-02-2026,Product Referral,2026-02,Churned,01-04-2026
+CUS-00646,Zenithgate Digital,United States,North America,Manufacturing,Mid-Market,201-1000,23-07-2025,App Marketplace,2025-07,Churned,01-05-2026
+CUS-00647,Sableworks Holdings,United States,North America,Professional Services,SMB,51-200,10-10-2024,Organic Search,2024-10,Active,
+CUS-00648,Falconwind Partners,Japan,Asia-Pacific,Healthcare,SMB,51-200,27-04-2026,Product Referral,2026-04,Active,
+CUS-00649,Cedarsphere Solutions,Mexico,Latin America,Media & Entertainment,SMB,51-200,06-05-2025,Organic Search,2025-05,Active,
+CUS-00650,Quantumbridge Solutions,Saudi Arabia,Middle East,Manufacturing,SMB,1-50,11-05-2026,Organic Search,2026-05,Active,
+CUS-00651,Northspark Digital,Netherlands,Europe,Software & IT,Mid-Market,201-1000,08-09-2024,Content Marketing,2024-09,Active,
+CUS-00652,Umberpath Digital,France,Europe,Healthcare,SMB,1-50,14-04-2026,Paid Search,2026-04,Active,
+CUS-00653,Bluereach,France,Europe,Healthcare,SMB,51-200,07-11-2025,Paid Search,2025-11,Active,
+CUS-00654,Orbitlink Holdings,India,Asia-Pacific,Software & IT,SMB,51-200,24-11-2025,Product Referral,2025-11,Churned,01-01-2026
+CUS-00655,Pioneerscale Digital,United States,North America,Financial Services,SMB,51-200,07-04-2025,Partner Referral,2025-04,Active,
+CUS-00656,Harborstone Solutions,Sweden,Europe,Software & IT,SMB,51-200,23-11-2025,Organic Search,2025-11,Active,
+CUS-00657,Umbertrack Digital,Qatar,Middle East,Media & Entertainment,SMB,1-50,23-08-2024,Content Marketing,2024-08,Churned,01-11-2024
+CUS-00658,Pioneerscale Technologies,United States,North America,Software & IT,SMB,51-200,23-01-2025,Paid Search,2025-01,Active,
+CUS-00659,Basaltsphere,Mexico,Latin America,Real Estate,Mid-Market,201-1000,05-06-2026,Product Referral,2026-06,Active,
+CUS-00660,Northwave Industries,India,Asia-Pacific,Financial Services,SMB,51-200,04-11-2025,Content Marketing,2025-11,Active,
+CUS-00661,Summitsphere Technologies,Sweden,Europe,Manufacturing,Enterprise,1001-5000,01-04-2026,Outbound Sales,2026-04,Active,
+CUS-00662,Umbersystems Partners,Germany,Europe,Healthcare,SMB,51-200,25-04-2026,Content Marketing,2026-04,Churned,01-06-2026
+CUS-00663,Juniperwave Industries,United States,North America,E-Commerce,SMB,51-200,29-04-2026,Partner Referral,2026-04,Churned,01-05-2026
+CUS-00664,Bluegate,Canada,North America,Healthcare,SMB,1-50,12-02-2024,Events,2024-02,Churned,01-09-2025
+CUS-00665,Umbermark Partners,United Kingdom,Europe,Software & IT,SMB,1-50,08-05-2025,Product Referral,2025-05,Active,
+CUS-00666,Nimbussphere Industries,United States,North America,Logistics,Mid-Market,201-1000,26-02-2026,Partner Referral,2026-02,Active,
+CUS-00667,Lumenpoint Solutions,Australia,Asia-Pacific,Media & Entertainment,SMB,51-200,22-04-2025,Partner Referral,2025-04,Active,
+CUS-00668,Everestline Solutions,Brazil,Latin America,Manufacturing,SMB,51-200,10-08-2024,Product Referral,2024-08,Churned,01-01-2025
+CUS-00669,Keystoneline Group,Canada,North America,Professional Services,SMB,51-200,05-01-2026,Partner Referral,2026-01,Active,
+CUS-00670,Ridgefield Partners,India,Asia-Pacific,Education,SMB,51-200,27-06-2025,Paid Search,2025-06,Churned,01-05-2026
+CUS-00671,Harborsync Partners,United States,North America,E-Commerce,SMB,51-200,19-02-2026,Organic Search,2026-02,Active,
+CUS-00672,Summitsphere Partners,Brazil,Latin America,Retail,Mid-Market,201-1000,17-06-2026,Outbound Sales,2026-06,Active,
+CUS-00673,Sablepeak Digital,Australia,Asia-Pacific,Real Estate,Mid-Market,201-1000,23-12-2024,Product Referral,2024-12,Active,
+CUS-00674,Quartzgate,Saudi Arabia,Middle East,Financial Services,SMB,51-200,09-11-2025,Outbound Sales,2025-11,Active,
+CUS-00675,Cedarwave Digital,United States,North America,Media & Entertainment,SMB,1-50,25-10-2024,Partner Referral,2024-10,Active,
+CUS-00676,Northline Group,France,Europe,Education,Mid-Market,201-1000,02-05-2026,Paid Search,2026-05,Active,
+CUS-00677,Novawave Industries,Germany,Europe,Financial Services,SMB,51-200,14-11-2025,Organic Search,2025-11,Active,
+CUS-00678,Emberpeak Technologies,United Kingdom,Europe,Software & IT,Mid-Market,201-1000,24-12-2025,Content Marketing,2025-12,Active,
+CUS-00679,Aurorapoint Industries,Brazil,Latin America,Software & IT,Mid-Market,201-1000,01-10-2025,Content Marketing,2025-10,Active,
+CUS-00680,Basaltfield,Mexico,Latin America,E-Commerce,Enterprise,1001-5000,19-03-2026,Content Marketing,2026-03,Active,
+CUS-00681,Zenithpeak Solutions,United States,North America,E-Commerce,SMB,1-50,16-02-2026,Paid Search,2026-02,Active,
+CUS-00682,Umberlabs Digital,Egypt,Middle East,Software & IT,SMB,51-200,07-11-2025,Organic Search,2025-11,Churned,01-12-2025
+CUS-00683,Deltagrid Industries,Singapore,Asia-Pacific,Software & IT,SMB,51-200,30-11-2024,Organic Search,2024-11,Active,
+CUS-00684,Northmark Industries,Germany,Europe,Professional Services,SMB,1-50,03-01-2026,Organic Search,2026-01,Active,
+CUS-00685,Granitehub,France,Europe,Real Estate,Mid-Market,201-1000,23-06-2025,Outbound Sales,2025-06,Churned,01-08-2025
+CUS-00686,Zenithsphere,United States,North America,E-Commerce,SMB,51-200,07-04-2026,Paid Search,2026-04,Active,
+CUS-00687,Meridianbase Digital,United States,North America,Retail,Enterprise,1001-5000,30-03-2025,Product Referral,2025-03,Active,
+CUS-00688,Nimbusmark Holdings,Sweden,Europe,Education,Mid-Market,201-1000,13-03-2026,Organic Search,2026-03,Active,
+CUS-00689,Bluescale Technologies,Netherlands,Europe,Real Estate,Mid-Market,201-1000,06-05-2026,Paid Search,2026-05,Active,
+CUS-00690,Summitlabs Holdings,United States,North America,Logistics,Mid-Market,201-1000,22-10-2025,Outbound Sales,2025-10,Active,
+CUS-00691,Novawind Partners,Singapore,Asia-Pacific,E-Commerce,SMB,51-200,04-06-2025,Content Marketing,2025-06,Churned,01-09-2025
+CUS-00692,Terrashift Technologies,United Kingdom,Europe,Manufacturing,Mid-Market,201-1000,17-05-2025,Product Referral,2025-05,Active,
+CUS-00693,Zenithpeak Holdings,Sweden,Europe,Education,Enterprise,5000+,28-02-2025,Partner Referral,2025-02,Active,
+CUS-00694,Emberworks Solutions,United Kingdom,Europe,Financial Services,SMB,51-200,11-12-2025,Events,2025-12,Active,
+CUS-00695,Keystoneworks Industries,Sweden,Europe,Professional Services,SMB,1-50,05-04-2025,Paid Search,2025-04,Churned,01-07-2025
+CUS-00696,Zenithscale Digital,Germany,Europe,Software & IT,SMB,1-50,04-09-2024,Product Referral,2024-09,Churned,01-07-2025
+CUS-00697,Quartzpoint Industries,United Kingdom,Europe,Software & IT,SMB,51-200,16-10-2024,Organic Search,2024-10,Active,
+CUS-00698,Lumenpeak Partners,Canada,North America,Manufacturing,Mid-Market,201-1000,30-08-2024,Paid Search,2024-08,Active,
+CUS-00699,Keystonetrack Partners,Saudi Arabia,Middle East,Media & Entertainment,Mid-Market,201-1000,10-06-2026,Outbound Sales,2026-06,Active,
+CUS-00700,Nimbuspoint Industries,Egypt,Middle East,Software & IT,SMB,51-200,22-03-2026,Paid Search,2026-03,Churned,01-04-2026
+CUS-00701,Orbittrack Group,Canada,North America,Professional Services,SMB,1-50,29-02-2024,Events,2024-02,Active,
+CUS-00702,Forgebridge Partners,United States,North America,Manufacturing,Mid-Market,201-1000,27-03-2026,Content Marketing,2026-03,Active,
+CUS-00703,Falconworks Technologies,France,Europe,Financial Services,SMB,1-50,25-09-2024,Partner Referral,2024-09,Active,
+CUS-00704,Keystoneworks Digital,Sweden,Europe,Software & IT,Mid-Market,201-1000,02-08-2024,Outbound Sales,2024-08,Active,
+CUS-00705,Vantagehub Holdings,Canada,North America,Financial Services,Enterprise,1001-5000,08-10-2025,Partner Referral,2025-10,Active,
+CUS-00706,Asterbase Technologies,United States,North America,Media & Entertainment,Mid-Market,201-1000,04-08-2024,Organic Search,2024-08,Active,
+CUS-00707,Forgesystems Technologies,United States,North America,E-Commerce,Mid-Market,201-1000,30-09-2025,Partner Referral,2025-09,Active,
+CUS-00708,Ivoryfield Group,Netherlands,Europe,E-Commerce,Mid-Market,201-1000,23-05-2025,Outbound Sales,2025-05,Active,
+CUS-00709,Falconedge Holdings,Canada,North America,Energy & Utilities,Mid-Market,201-1000,28-07-2024,Product Referral,2024-07,Active,
+CUS-00710,Sablelabs Group,United Kingdom,Europe,Financial Services,Mid-Market,201-1000,17-05-2024,Partner Referral,2024-05,Churned,01-05-2026
+CUS-00711,Basaltpeak Technologies,United States,North America,Manufacturing,SMB,51-200,18-10-2025,Product Referral,2025-10,Active,
+CUS-00712,Copperscale Industries,United States,North America,Manufacturing,SMB,1-50,25-06-2024,Organic Search,2024-06,Active,
+CUS-00713,Driftwave Technologies,France,Europe,Financial Services,SMB,51-200,19-02-2026,Paid Search,2026-02,Active,
+CUS-00714,Deltastone,Saudi Arabia,Middle East,Energy & Utilities,Mid-Market,201-1000,24-01-2025,Organic Search,2025-01,Active,
+CUS-00715,Deltacore Digital,Canada,North America,Software & IT,SMB,51-200,08-01-2026,Paid Search,2026-01,Active,
+CUS-00716,Falconworks Group,Mexico,Latin America,Financial Services,SMB,51-200,12-01-2026,Organic Search,2026-01,Active,
+CUS-00717,Bluewind Digital,India,Asia-Pacific,Software & IT,Mid-Market,201-1000,01-08-2024,Partner Referral,2024-08,Churned,01-09-2025
+CUS-00718,Bluelabs Solutions,India,Asia-Pacific,E-Commerce,Mid-Market,201-1000,07-02-2026,Organic Search,2026-02,Active,
+CUS-00719,Everestreach Technologies,Saudi Arabia,Middle East,Retail,Enterprise,5000+,02-03-2025,Outbound Sales,2025-03,Active,
+CUS-00720,Pioneerpath Industries,France,Europe,Logistics,SMB,1-50,27-11-2025,App Marketplace,2025-11,Active,
+CUS-00721,Emberbridge Partners,United States,North America,Software & IT,SMB,51-200,11-09-2024,Product Referral,2024-09,Churned,01-11-2025
+CUS-00722,Quartzwave Partners,United States,North America,Financial Services,SMB,51-200,28-02-2026,Paid Search,2026-02,Active,
+CUS-00723,Onyxreach Digital,Australia,Asia-Pacific,E-Commerce,SMB,1-50,13-06-2025,Partner Referral,2025-06,Churned,01-08-2025
+CUS-00724,Ivoryshift Industries,United Kingdom,Europe,Healthcare,Mid-Market,201-1000,27-01-2025,Partner Referral,2025-01,Active,
+CUS-00725,Terraspark Technologies,United Kingdom,Europe,Education,SMB,1-50,28-09-2024,Paid Search,2024-09,Active,
+CUS-00726,Latticewind Industries,Sweden,Europe,Financial Services,Mid-Market,201-1000,16-04-2025,Organic Search,2025-04,Active,
+CUS-00727,Orbitgate Industries,United States,North America,Manufacturing,SMB,1-50,31-12-2024,Content Marketing,2024-12,Churned,01-03-2025
+CUS-00728,Summitline Solutions,Sweden,Europe,Healthcare,SMB,51-200,23-04-2026,Organic Search,2026-04,Active,
+CUS-00729,Northpath Holdings,United Kingdom,Europe,Financial Services,SMB,1-50,08-09-2025,Paid Search,2025-09,Active,
+CUS-00730,Emberwave Industries,India,Asia-Pacific,E-Commerce,Mid-Market,201-1000,17-05-2026,Events,2026-05,Active,
+CUS-00731,Pioneerpath Technologies,Brazil,Latin America,Manufacturing,SMB,51-200,17-05-2024,Partner Referral,2024-05,Active,
+CUS-00732,Forgehub Group,United States,North America,E-Commerce,SMB,1-50,23-08-2024,Organic Search,2024-08,Active,
+CUS-00733,Orbitshift Digital,United Kingdom,Europe,Software & IT,SMB,1-50,25-02-2024,App Marketplace,2024-02,Active,
+CUS-00734,Ivorystone Partners,Singapore,Asia-Pacific,Education,SMB,1-50,22-08-2024,Paid Search,2024-08,Active,
+CUS-00735,Meridiangate Technologies,India,Asia-Pacific,Software & IT,SMB,51-200,12-09-2025,Content Marketing,2025-09,Active,
+CUS-00736,Auroracraft Technologies,Brazil,Latin America,Healthcare,SMB,1-50,05-11-2024,Product Referral,2024-11,Churned,01-01-2025
+CUS-00737,Harborhub Group,Saudi Arabia,Middle East,Energy & Utilities,Mid-Market,201-1000,27-02-2026,Product Referral,2026-02,Active,
+CUS-00738,Brightflow Solutions,Japan,Asia-Pacific,Healthcare,Mid-Market,201-1000,09-06-2026,Product Referral,2026-06,Active,
+CUS-00739,Willowspark Partners,United Arab Emirates,Middle East,Healthcare,SMB,51-200,23-06-2025,Paid Search,2025-06,Active,
+CUS-00740,Driftspark Solutions,Egypt,Middle East,Healthcare,SMB,51-200,12-02-2024,Outbound Sales,2024-02,Active,
+CUS-00741,Summitgate Partners,United States,North America,Retail,SMB,1-50,16-01-2025,Product Referral,2025-01,Churned,01-06-2026
+CUS-00742,Ridgecraft Holdings,India,Asia-Pacific,Professional Services,SMB,1-50,05-09-2024,Content Marketing,2024-09,Churned,01-04-2025
+CUS-00743,Forgesync Group,Brazil,Latin America,Software & IT,Mid-Market,201-1000,22-02-2025,Organic Search,2025-02,Active,
+CUS-00744,Basaltmark Solutions,Japan,Asia-Pacific,Education,SMB,1-50,02-05-2024,Organic Search,2024-05,Churned,01-12-2024
+CUS-00745,Coppertrack Group,United Arab Emirates,Middle East,Education,SMB,51-200,03-01-2026,Events,2026-01,Active,
+CUS-00746,Juniperline Partners,Australia,Asia-Pacific,Financial Services,Mid-Market,201-1000,27-08-2025,Partner Referral,2025-08,Active,
+CUS-00747,Vantagelink Group,Singapore,Asia-Pacific,Financial Services,SMB,1-50,17-07-2025,Partner Referral,2025-07,Active,
+CUS-00748,Meridiantrack,United States,North America,Financial Services,SMB,51-200,29-01-2026,Product Referral,2026-01,Active,
+CUS-00749,Ridgesync Group,Japan,Asia-Pacific,Software & IT,SMB,1-50,13-06-2026,Paid Search,2026-06,Active,
+CUS-00750,Granitesystems,Netherlands,Europe,Healthcare,SMB,51-200,07-01-2026,Partner Referral,2026-01,Churned,01-04-2026
+CUS-00751,Falconbase Group,Germany,Europe,Healthcare,Mid-Market,201-1000,16-03-2024,Partner Referral,2024-03,Active,
+CUS-00752,Northgate Holdings,Netherlands,Europe,Education,Mid-Market,201-1000,12-10-2025,Organic Search,2025-10,Churned,01-12-2025
+CUS-00753,Meridiansystems Holdings,United States,North America,Real Estate,SMB,1-50,13-02-2024,App Marketplace,2024-02,Active,
+CUS-00754,Pioneerlabs Group,Australia,Asia-Pacific,Media & Entertainment,SMB,1-50,17-11-2025,Content Marketing,2025-11,Active,
+CUS-00755,Deltahub Industries,United Kingdom,Europe,Manufacturing,Mid-Market,201-1000,16-04-2026,Paid Search,2026-04,Active,
+CUS-00756,Junipergate Industries,United Arab Emirates,Middle East,Healthcare,Mid-Market,201-1000,03-05-2025,Partner Referral,2025-05,Active,
+CUS-00757,Summitmark Digital,Egypt,Middle East,Media & Entertainment,Enterprise,1001-5000,31-03-2026,Organic Search,2026-03,Active,
+CUS-00758,Aurorasync Digital,Germany,Europe,E-Commerce,SMB,51-200,18-02-2025,Organic Search,2025-02,Churned,01-03-2025
+CUS-00759,Novawave Holdings,India,Asia-Pacific,Manufacturing,SMB,1-50,17-11-2025,Partner Referral,2025-11,Active,
+CUS-00760,Pioneerpath Digital,United States,North America,Software & IT,Mid-Market,201-1000,25-04-2025,Paid Search,2025-04,Active,
+CUS-00761,Everestlogic Technologies,Saudi Arabia,Middle East,Healthcare,Mid-Market,201-1000,12-11-2025,Outbound Sales,2025-11,Active,
+CUS-00762,Deltacore Solutions,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,13-10-2025,Organic Search,2025-10,Active,
+CUS-00763,Copperfield Technologies,India,Asia-Pacific,Financial Services,SMB,51-200,18-04-2026,Content Marketing,2026-04,Active,
+CUS-00764,Orbitpeak,Brazil,Latin America,Financial Services,SMB,1-50,07-02-2025,Partner Referral,2025-02,Churned,01-03-2026
+CUS-00765,Forgepath Solutions,India,Asia-Pacific,Manufacturing,Enterprise,1001-5000,07-03-2025,Outbound Sales,2025-03,Active,
+CUS-00766,Pioneerstone Group,Mexico,Latin America,Software & IT,SMB,1-50,07-08-2025,Outbound Sales,2025-08,Churned,01-11-2025
+CUS-00767,Onyxwind Solutions,United States,North America,Software & IT,SMB,51-200,18-10-2025,Paid Search,2025-10,Active,
+CUS-00768,Juniperhub,France,Europe,E-Commerce,SMB,51-200,19-10-2025,Events,2025-10,Active,
+CUS-00769,Terralogic Group,Nigeria,Africa,E-Commerce,SMB,1-50,30-03-2025,App Marketplace,2025-03,Active,
+CUS-00770,Pioneerfield Holdings,India,Asia-Pacific,Professional Services,SMB,1-50,06-06-2025,Events,2025-06,Churned,01-12-2025
+CUS-00771,Summitpath,Singapore,Asia-Pacific,Healthcare,Enterprise,1001-5000,18-09-2025,App Marketplace,2025-09,Active,
+CUS-00772,Cedarspark Digital,United States,North America,Professional Services,SMB,51-200,16-10-2025,Content Marketing,2025-10,Active,
+CUS-00773,Juniperhub Digital,United Kingdom,Europe,Software & IT,SMB,51-200,23-07-2025,Paid Search,2025-07,Active,
+CUS-00774,Astershift,Spain,Europe,Manufacturing,Mid-Market,201-1000,14-12-2025,Events,2025-12,Active,
+CUS-00775,Asterspark Partners,Sweden,Europe,Financial Services,Mid-Market,201-1000,14-03-2024,Partner Referral,2024-03,Active,
+CUS-00776,Willowworks Digital,United States,North America,Software & IT,SMB,1-50,08-05-2024,Content Marketing,2024-05,Churned,01-07-2024
+CUS-00777,Onyxreach Partners,Japan,Asia-Pacific,Software & IT,Mid-Market,201-1000,23-09-2024,Paid Search,2024-09,Active,
+CUS-00778,Pioneerhub,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,02-07-2025,Organic Search,2025-07,Active,
+CUS-00779,Terrasystems Digital,Egypt,Middle East,Manufacturing,Mid-Market,201-1000,02-06-2026,Outbound Sales,2026-06,Active,
+CUS-00780,Ridgeflow Partners,Canada,North America,Education,SMB,1-50,31-08-2025,Events,2025-08,Active,
+CUS-00781,Meridianlogic Holdings,United States,North America,Retail,Mid-Market,201-1000,24-06-2025,Outbound Sales,2025-06,Active,
+CUS-00782,Basaltpoint Partners,Germany,Europe,Media & Entertainment,Mid-Market,201-1000,22-11-2025,Partner Referral,2025-11,Churned,01-06-2026
+CUS-00783,Zenithstone Holdings,Brazil,Latin America,E-Commerce,SMB,51-200,07-01-2025,Product Referral,2025-01,Active,
+CUS-00784,Quartzwave,Saudi Arabia,Middle East,Software & IT,SMB,51-200,19-05-2025,Organic Search,2025-05,Active,
+CUS-00785,Onyxlabs Solutions,Qatar,Middle East,Education,Enterprise,1001-5000,23-05-2026,Events,2026-05,Active,
+CUS-00786,Deltasystems,Singapore,Asia-Pacific,Professional Services,SMB,1-50,28-02-2026,Partner Referral,2026-02,Active,
+CUS-00787,Quantumspark,France,Europe,Real Estate,Mid-Market,201-1000,09-02-2025,App Marketplace,2025-02,Active,
+CUS-00788,Harborline Solutions,Australia,Asia-Pacific,Software & IT,SMB,51-200,14-01-2025,Outbound Sales,2025-01,Churned,01-04-2025
+CUS-00789,Driftsphere Holdings,Mexico,Latin America,Real Estate,SMB,1-50,01-10-2025,Paid Search,2025-10,Active,
+CUS-00790,Keystonecore Solutions,Nigeria,Africa,Energy & Utilities,Enterprise,5000+,09-03-2025,Paid Search,2025-03,Active,
+CUS-00791,Vantagescale Partners,France,Europe,Healthcare,Mid-Market,201-1000,02-09-2024,Paid Search,2024-09,Churned,01-10-2024
+CUS-00792,Cobaltmark Digital,United Kingdom,Europe,Media & Entertainment,SMB,1-50,05-12-2025,Events,2025-12,Churned,01-01-2026
+CUS-00793,Terrapath Industries,United Kingdom,Europe,Financial Services,SMB,1-50,17-06-2026,Content Marketing,2026-06,Active,
+CUS-00794,Falconwave Holdings,Nigeria,Africa,Financial Services,SMB,1-50,20-03-2026,Paid Search,2026-03,Active,
+CUS-00795,Quantumsync Partners,Egypt,Middle East,Professional Services,Mid-Market,201-1000,03-06-2026,Events,2026-06,Active,
+CUS-00796,Northstone Holdings,South Africa,Africa,Education,SMB,51-200,21-04-2026,Organic Search,2026-04,Active,
+CUS-00797,Vantagecore Industries,United States,North America,Software & IT,SMB,1-50,07-01-2025,Partner Referral,2025-01,Churned,01-12-2025
+CUS-00798,Latticeline Holdings,India,Asia-Pacific,Financial Services,Enterprise,5000+,13-03-2025,Product Referral,2025-03,Active,
+CUS-00799,Keystonewind Solutions,Spain,Europe,Professional Services,Enterprise,1001-5000,17-06-2025,Content Marketing,2025-06,Active,
+CUS-00800,Falconlink,Canada,North America,Retail,Mid-Market,201-1000,02-02-2024,Organic Search,2024-02,Active,
+CUS-00801,Coppersphere Industries,France,Europe,Real Estate,Mid-Market,201-1000,22-05-2025,Partner Referral,2025-05,Active,
+CUS-00802,Latticewave Digital,Australia,Asia-Pacific,E-Commerce,SMB,1-50,05-06-2025,App Marketplace,2025-06,Churned,01-07-2025
+CUS-00803,Onyxflow Technologies,United Arab Emirates,Middle East,Logistics,SMB,51-200,05-06-2025,Content Marketing,2025-06,Churned,01-08-2025
+CUS-00804,Copperbase Technologies,United States,North America,Retail,Mid-Market,201-1000,06-01-2026,Outbound Sales,2026-01,Active,
+CUS-00805,Onyxtrack,Australia,Asia-Pacific,Financial Services,Mid-Market,201-1000,05-05-2026,Product Referral,2026-05,Active,
+CUS-00806,Onyxworks,Saudi Arabia,Middle East,Financial Services,Mid-Market,201-1000,02-04-2024,Events,2024-04,Active,
+CUS-00807,Everestwave Industries,Egypt,Middle East,Manufacturing,SMB,1-50,08-04-2026,Product Referral,2026-04,Active,
+CUS-00808,Umberwind Partners,Singapore,Asia-Pacific,Healthcare,Mid-Market,201-1000,01-11-2024,Content Marketing,2024-11,Active,
+CUS-00809,Auroralabs Industries,Brazil,Latin America,Manufacturing,Mid-Market,201-1000,27-01-2025,Partner Referral,2025-01,Churned,01-03-2025
+CUS-00810,Vertexsystems Industries,France,Europe,Retail,SMB,51-200,27-05-2025,Events,2025-05,Active,
+CUS-00811,Orbitsystems Group,United States,North America,Real Estate,SMB,51-200,02-02-2026,Partner Referral,2026-02,Active,
+CUS-00812,Falconpeak Group,India,Asia-Pacific,E-Commerce,Mid-Market,201-1000,10-02-2026,Organic Search,2026-02,Active,
+CUS-00813,Sablesync Industries,Brazil,Latin America,Retail,SMB,1-50,16-11-2025,Events,2025-11,Active,
+CUS-00814,Cobaltsystems Digital,South Africa,Africa,Manufacturing,Enterprise,5000+,26-09-2024,Content Marketing,2024-09,Churned,01-09-2025
+CUS-00815,Northgrid Solutions,Germany,Europe,Software & IT,SMB,51-200,14-12-2024,Organic Search,2024-12,Active,
+CUS-00816,Brightline Holdings,France,Europe,Professional Services,SMB,1-50,04-07-2025,Outbound Sales,2025-07,Active,
+CUS-00817,Lumenlabs Group,Mexico,Latin America,Real Estate,SMB,51-200,09-02-2026,App Marketplace,2026-02,Active,
+CUS-00818,Astersphere Partners,Germany,Europe,Software & IT,Mid-Market,201-1000,29-05-2025,Paid Search,2025-05,Churned,01-04-2026
+CUS-00819,Summitmark Technologies,Netherlands,Europe,Education,Mid-Market,201-1000,21-04-2026,Content Marketing,2026-04,Active,
+CUS-00820,Falconedge Technologies,South Africa,Africa,Healthcare,Enterprise,5000+,28-06-2026,Organic Search,2026-06,Active,
+CUS-00821,Deltareach Technologies,Germany,Europe,Logistics,SMB,51-200,18-11-2024,App Marketplace,2024-11,Churned,01-07-2025
+CUS-00822,Summitcore,Canada,North America,Software & IT,Mid-Market,201-1000,28-12-2024,Paid Search,2024-12,Active,
+CUS-00823,Ridgegate Group,United States,North America,Manufacturing,Mid-Market,201-1000,03-02-2026,Organic Search,2026-02,Active,
+CUS-00824,Driftlabs Group,United States,North America,E-Commerce,SMB,1-50,30-12-2025,Partner Referral,2025-12,Active,
+CUS-00825,Willowcraft Technologies,Australia,Asia-Pacific,Financial Services,Mid-Market,201-1000,24-06-2025,Product Referral,2025-06,Active,
+CUS-00826,Quartzflow Holdings,Canada,North America,E-Commerce,SMB,1-50,15-05-2024,Organic Search,2024-05,Churned,01-09-2024
+CUS-00827,Pioneerreach,Saudi Arabia,Middle East,Manufacturing,Enterprise,1001-5000,06-05-2025,Paid Search,2025-05,Active,
+CUS-00828,Asterbase Solutions,Netherlands,Europe,Logistics,Mid-Market,201-1000,26-09-2025,Organic Search,2025-09,Active,
+CUS-00829,Latticesphere,United Arab Emirates,Middle East,Financial Services,Mid-Market,201-1000,30-01-2024,Product Referral,2024-01,Churned,01-10-2025
+CUS-00830,Northreach Holdings,Netherlands,Europe,Education,SMB,1-50,26-05-2026,Paid Search,2026-05,Active,
+CUS-00831,Keystonewave Holdings,Qatar,Middle East,Professional Services,SMB,1-50,19-01-2026,Partner Referral,2026-01,Churned,01-04-2026
+CUS-00832,Vertexcore Solutions,United Arab Emirates,Middle East,Retail,Mid-Market,201-1000,11-06-2025,App Marketplace,2025-06,Active,
+CUS-00833,Terrastone Technologies,United States,North America,E-Commerce,Mid-Market,201-1000,27-05-2025,Product Referral,2025-05,Active,
+CUS-00834,Vertexshift Industries,United States,North America,Education,SMB,1-50,19-06-2025,Organic Search,2025-06,Active,
+CUS-00835,Vertexcraft Group,Sweden,Europe,Logistics,SMB,1-50,14-03-2024,Events,2024-03,Churned,01-07-2024
+CUS-00836,Asterspark Technologies,Singapore,Asia-Pacific,Manufacturing,SMB,51-200,18-07-2025,Content Marketing,2025-07,Active,
+CUS-00837,Pioneerwave Solutions,Mexico,Latin America,E-Commerce,Enterprise,5000+,13-10-2024,Paid Search,2024-10,Active,
+CUS-00838,Northgrid Group,Qatar,Middle East,Software & IT,Mid-Market,201-1000,24-06-2026,Paid Search,2026-06,Active,
+CUS-00839,Granitemark Group,India,Asia-Pacific,E-Commerce,SMB,1-50,04-07-2025,Organic Search,2025-07,Active,
+CUS-00840,Summitgrid Group,United States,North America,Software & IT,Mid-Market,201-1000,29-01-2026,Paid Search,2026-01,Active,
+CUS-00841,Quantumstone Partners,Spain,Europe,Education,SMB,51-200,25-12-2025,Content Marketing,2025-12,Active,
+CUS-00842,Summitwind Solutions,Australia,Asia-Pacific,Healthcare,Mid-Market,201-1000,09-06-2025,Partner Referral,2025-06,Active,
+CUS-00843,Meridianspark Partners,Brazil,Latin America,Healthcare,Mid-Market,201-1000,11-08-2024,Product Referral,2024-08,Churned,01-02-2025
+CUS-00844,Ridgemark Holdings,United Arab Emirates,Middle East,Healthcare,SMB,51-200,06-02-2026,Product Referral,2026-02,Active,
+CUS-00845,Novabridge Solutions,United Kingdom,Europe,Education,SMB,51-200,30-12-2024,Product Referral,2024-12,Active,
+CUS-00846,Harbortrack Digital,India,Asia-Pacific,Financial Services,SMB,1-50,17-12-2024,Paid Search,2024-12,Active,
+CUS-00847,Pioneerpoint Holdings,Australia,Asia-Pacific,E-Commerce,SMB,51-200,27-07-2024,Content Marketing,2024-07,Active,
+CUS-00848,Keystonesync Digital,Japan,Asia-Pacific,Software & IT,SMB,51-200,11-06-2026,Product Referral,2026-06,Active,
+CUS-00849,Latticestone Holdings,India,Asia-Pacific,Software & IT,Enterprise,5000+,27-02-2026,Outbound Sales,2026-02,Active,
+CUS-00850,Summithub Group,Singapore,Asia-Pacific,Software & IT,Mid-Market,201-1000,22-10-2025,Partner Referral,2025-10,Active,
+CUS-00851,Quartzpeak,Sweden,Europe,Financial Services,SMB,1-50,09-04-2025,Partner Referral,2025-04,Churned,01-11-2025
+CUS-00852,Willowwind Digital,Australia,Asia-Pacific,Real Estate,SMB,51-200,12-09-2024,Partner Referral,2024-09,Churned,01-10-2024
+CUS-00853,Quartzedge Industries,Spain,Europe,Healthcare,SMB,1-50,25-02-2026,Paid Search,2026-02,Active,
+CUS-00854,Onyxpoint Group,United Kingdom,Europe,E-Commerce,SMB,1-50,23-02-2025,Content Marketing,2025-02,Active,
+CUS-00855,Junipershift Digital,Netherlands,Europe,Financial Services,Mid-Market,201-1000,10-08-2025,Paid Search,2025-08,Active,
+CUS-00856,Helixsync Digital,Australia,Asia-Pacific,Professional Services,Mid-Market,201-1000,04-03-2025,Paid Search,2025-03,Churned,01-04-2025
+CUS-00857,Summitwind Technologies,Singapore,Asia-Pacific,E-Commerce,Mid-Market,201-1000,16-06-2025,Partner Referral,2025-06,Active,
+CUS-00858,Nimbuscore Industries,Netherlands,Europe,Software & IT,Mid-Market,201-1000,18-02-2024,Paid Search,2024-02,Active,
+CUS-00859,Latticeline Digital,Germany,Europe,Software & IT,Mid-Market,201-1000,17-06-2026,Content Marketing,2026-06,Active,
+CUS-00860,Northmark,United States,North America,E-Commerce,Mid-Market,201-1000,08-02-2026,Organic Search,2026-02,Active,
+CUS-00861,Willowworks,Spain,Europe,Retail,SMB,1-50,10-02-2025,Partner Referral,2025-02,Churned,01-03-2025
+CUS-00862,Harbortrack,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,30-12-2025,Content Marketing,2025-12,Churned,01-01-2026
+CUS-00863,Aurorasync,Singapore,Asia-Pacific,Media & Entertainment,SMB,51-200,10-08-2025,App Marketplace,2025-08,Active,
+CUS-00864,Cedarscale Holdings,United Kingdom,Europe,Logistics,SMB,51-200,24-12-2024,Events,2024-12,Active,
+CUS-00865,Bluecore Technologies,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,25-07-2025,Product Referral,2025-07,Active,
+CUS-00866,Northshift,United States,North America,E-Commerce,SMB,1-50,03-10-2025,Paid Search,2025-10,Churned,01-01-2026
+CUS-00867,Latticecraft Industries,United States,North America,Financial Services,SMB,1-50,10-08-2024,Content Marketing,2024-08,Active,
+CUS-00868,Vertexscale Group,Spain,Europe,Media & Entertainment,Mid-Market,201-1000,24-06-2026,Paid Search,2026-06,Active,
+CUS-00869,Emberline Group,United Kingdom,Europe,Software & IT,SMB,1-50,25-08-2025,Outbound Sales,2025-08,Active,
+CUS-00870,Zenithbase Holdings,France,Europe,Professional Services,Mid-Market,201-1000,14-05-2024,Organic Search,2024-05,Churned,01-05-2026
+CUS-00871,Pioneerreach Solutions,France,Europe,Professional Services,SMB,51-200,16-12-2024,Product Referral,2024-12,Churned,01-04-2026
+CUS-00872,Keystoneedge,Sweden,Europe,Media & Entertainment,Mid-Market,201-1000,24-04-2025,Organic Search,2025-04,Active,
+CUS-00873,Brightcore Group,Netherlands,Europe,Healthcare,SMB,51-200,05-10-2024,Product Referral,2024-10,Active,
+CUS-00874,Onyxpeak,Netherlands,Europe,Healthcare,Enterprise,1001-5000,20-09-2024,Outbound Sales,2024-09,Active,
+CUS-00875,Orbitflow Digital,Canada,North America,Healthcare,Mid-Market,201-1000,18-12-2024,Outbound Sales,2024-12,Active,
+CUS-00876,Nimbuspath,India,Asia-Pacific,Healthcare,SMB,51-200,20-02-2026,Organic Search,2026-02,Active,
+CUS-00877,Harborfield Partners,United Kingdom,Europe,Manufacturing,SMB,51-200,16-06-2026,Organic Search,2026-06,Active,
+CUS-00878,Granitewind Technologies,United Kingdom,Europe,Real Estate,SMB,1-50,19-06-2025,Organic Search,2025-06,Active,
+CUS-00879,Latticeflow Solutions,United Arab Emirates,Middle East,Healthcare,Mid-Market,201-1000,23-04-2026,Organic Search,2026-04,Active,
+CUS-00880,Pioneersystems Technologies,Australia,Asia-Pacific,Professional Services,SMB,51-200,06-02-2026,Partner Referral,2026-02,Active,
+CUS-00881,Keystonegrid Industries,United Arab Emirates,Middle East,Media & Entertainment,SMB,51-200,05-11-2024,Paid Search,2024-11,Active,
+CUS-00882,Novalink Partners,France,Europe,Financial Services,SMB,1-50,07-04-2025,Organic Search,2025-04,Active,
+CUS-00883,Driftwave Solutions,United States,North America,Retail,Mid-Market,201-1000,18-02-2026,Partner Referral,2026-02,Active,
+CUS-00884,Harbortrack Industries,Australia,Asia-Pacific,Financial Services,Mid-Market,201-1000,14-01-2025,Organic Search,2025-01,Active,
+CUS-00885,Keystonegate Solutions,United States,North America,Media & Entertainment,Enterprise,1001-5000,15-05-2025,Product Referral,2025-05,Active,
+CUS-00886,Cedarwave Industries,Canada,North America,Healthcare,SMB,1-50,03-10-2025,Partner Referral,2025-10,Active,
+CUS-00887,Quartzmark Digital,France,Europe,Healthcare,SMB,1-50,28-06-2025,Organic Search,2025-06,Active,
+CUS-00888,Falconmark Digital,United Kingdom,Europe,E-Commerce,SMB,1-50,21-05-2025,Paid Search,2025-05,Churned,01-05-2026
+CUS-00889,Brightcraft Technologies,Spain,Europe,Manufacturing,Enterprise,5000+,29-12-2025,Outbound Sales,2025-12,Active,
+CUS-00890,Auroraworks Technologies,Egypt,Middle East,Financial Services,SMB,1-50,08-08-2025,Organic Search,2025-08,Active,
+CUS-00891,Helixpoint Partners,France,Europe,Media & Entertainment,SMB,51-200,19-09-2025,Partner Referral,2025-09,Active,
+CUS-00892,Pioneerlink Group,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,01-10-2025,Events,2025-10,Churned,01-11-2025
+CUS-00893,Asterstone Solutions,United States,North America,Financial Services,SMB,1-50,28-10-2025,Paid Search,2025-10,Active,
+CUS-00894,Willowtrack Digital,India,Asia-Pacific,Retail,Mid-Market,201-1000,09-02-2025,Organic Search,2025-02,Churned,01-04-2026
+CUS-00895,Vantagepoint Group,Japan,Asia-Pacific,Professional Services,Mid-Market,201-1000,06-01-2026,Organic Search,2026-01,Active,
+CUS-00896,Forgewave Partners,Canada,North America,E-Commerce,SMB,1-50,28-06-2025,Content Marketing,2025-06,Active,
+CUS-00897,Forgesphere Industries,Sweden,Europe,Financial Services,SMB,51-200,22-03-2025,Organic Search,2025-03,Active,
+CUS-00898,Asterpath Partners,United States,North America,Logistics,SMB,51-200,07-07-2025,Events,2025-07,Active,
+CUS-00899,Juniperlink Technologies,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,12-02-2025,App Marketplace,2025-02,Active,
+CUS-00900,Basaltscale Holdings,Australia,Asia-Pacific,Manufacturing,Mid-Market,201-1000,20-09-2024,Partner Referral,2024-09,Active,
+CUS-00901,Basaltsystems Digital,Saudi Arabia,Middle East,Healthcare,SMB,51-200,20-06-2026,Organic Search,2026-06,Active,
+CUS-00902,Forgestone Digital,Canada,North America,Logistics,SMB,1-50,21-12-2025,Product Referral,2025-12,Active,
+CUS-00903,Brightsync Technologies,United Kingdom,Europe,Healthcare,Mid-Market,201-1000,17-04-2025,Organic Search,2025-04,Churned,01-05-2025
+CUS-00904,Ridgeworks Industries,Canada,North America,Healthcare,SMB,1-50,24-10-2025,Events,2025-10,Active,
+CUS-00905,Onyxstone Group,Netherlands,Europe,Healthcare,SMB,51-200,02-09-2025,Product Referral,2025-09,Active,
+CUS-00906,Terrasync,France,Europe,Media & Entertainment,Mid-Market,201-1000,30-03-2025,Product Referral,2025-03,Active,
+CUS-00907,Orbitsync Digital,Netherlands,Europe,Manufacturing,Mid-Market,201-1000,23-10-2025,App Marketplace,2025-10,Active,
+CUS-00908,Deltabase,United States,North America,Manufacturing,Mid-Market,201-1000,13-03-2026,Paid Search,2026-03,Active,
+CUS-00909,Harborsphere Industries,Nigeria,Africa,Financial Services,Enterprise,5000+,13-02-2024,Content Marketing,2024-02,Active,
+CUS-00910,Onyxwave Solutions,United Arab Emirates,Middle East,Professional Services,Mid-Market,201-1000,14-02-2026,Events,2026-02,Active,
+CUS-00911,Pioneerflow Digital,United Kingdom,Europe,Financial Services,Mid-Market,201-1000,10-09-2025,Paid Search,2025-09,Active,
+CUS-00912,Ridgelink Group,United States,North America,Professional Services,Enterprise,5000+,16-05-2026,Outbound Sales,2026-05,Active,
+CUS-00913,Everestpeak Partners,India,Asia-Pacific,Healthcare,SMB,51-200,18-03-2026,Paid Search,2026-03,Active,
+CUS-00914,Ridgewave Technologies,United States,North America,Healthcare,SMB,1-50,07-06-2024,Organic Search,2024-06,Churned,01-06-2025
+CUS-00915,Emberline Digital,United States,North America,Education,SMB,51-200,29-08-2025,App Marketplace,2025-08,Active,
+CUS-00916,Harborwave Partners,Saudi Arabia,Middle East,Software & IT,Mid-Market,201-1000,22-04-2025,Product Referral,2025-04,Active,
+CUS-00917,Onyxflow Digital,United Kingdom,Europe,Financial Services,SMB,51-200,14-05-2026,Product Referral,2026-05,Active,
+CUS-00918,Northflow Solutions,Sweden,Europe,Financial Services,SMB,51-200,07-09-2025,Product Referral,2025-09,Churned,01-11-2025
+CUS-00919,Terrascale Group,Qatar,Middle East,Retail,SMB,1-50,21-05-2024,Outbound Sales,2024-05,Churned,01-11-2025
+CUS-00920,Granitegrid Technologies,Germany,Europe,E-Commerce,Enterprise,1001-5000,01-01-2025,Organic Search,2025-01,Active,
+CUS-00921,Asterspark Digital,United States,North America,Energy & Utilities,SMB,51-200,14-10-2025,Partner Referral,2025-10,Churned,01-12-2025
+CUS-00922,Ivorymark Solutions,Mexico,Latin America,Manufacturing,Mid-Market,201-1000,28-03-2026,Partner Referral,2026-03,Active,
+CUS-00923,Juniperpath Holdings,India,Asia-Pacific,Education,Mid-Market,201-1000,05-06-2025,Organic Search,2025-06,Active,
+CUS-00924,Granitefield Partners,France,Europe,Healthcare,SMB,51-200,21-01-2025,Events,2025-01,Active,
+CUS-00925,Meridianlink Holdings,India,Asia-Pacific,Financial Services,Enterprise,5000+,01-11-2024,Outbound Sales,2024-11,Active,
+CUS-00926,Keystonelogic,United States,North America,E-Commerce,Enterprise,1001-5000,12-01-2026,Outbound Sales,2026-01,Active,
+CUS-00927,Helixedge Solutions,United Kingdom,Europe,Software & IT,SMB,1-50,18-04-2026,Partner Referral,2026-04,Active,
+CUS-00928,Driftsphere Partners,Mexico,Latin America,Manufacturing,SMB,1-50,11-02-2025,Organic Search,2025-02,Churned,01-04-2025
+CUS-00929,Helixfield Holdings,Japan,Asia-Pacific,Professional Services,SMB,1-50,24-04-2024,Partner Referral,2024-04,Active,
+CUS-00930,Pioneersystems Group,United States,North America,Education,Mid-Market,201-1000,22-12-2025,Partner Referral,2025-12,Active,
+CUS-00931,Nimbusline Technologies,United States,North America,Education,SMB,1-50,29-08-2025,Content Marketing,2025-08,Active,
+CUS-00932,Granitetrack Solutions,Germany,Europe,Healthcare,SMB,51-200,21-06-2025,Partner Referral,2025-06,Active,
+CUS-00933,Summitflow Group,United States,North America,Manufacturing,SMB,51-200,24-05-2024,Paid Search,2024-05,Churned,01-02-2025
+CUS-00934,Latticepath Industries,Australia,Asia-Pacific,Healthcare,SMB,1-50,25-06-2026,Product Referral,2026-06,Active,
+CUS-00935,Willowsync Group,United States,North America,Software & IT,SMB,1-50,22-03-2026,App Marketplace,2026-03,Active,
+CUS-00936,Orbitscale,Qatar,Middle East,Software & IT,SMB,1-50,09-11-2024,App Marketplace,2024-11,Active,
+CUS-00937,Junipersync Partners,Nigeria,Africa,Professional Services,Enterprise,5000+,07-04-2025,Content Marketing,2025-04,Active,
+CUS-00938,Nimbuspeak Group,Saudi Arabia,Middle East,Manufacturing,SMB,51-200,14-11-2025,Organic Search,2025-11,Active,
+CUS-00939,Deltalabs Holdings,United States,North America,Education,SMB,51-200,11-04-2024,Paid Search,2024-04,Active,
+CUS-00940,Ivorypeak Group,France,Europe,Retail,SMB,1-50,06-11-2024,Partner Referral,2024-11,Active,
+CUS-00941,Quartzpath Solutions,Saudi Arabia,Middle East,Healthcare,SMB,51-200,01-06-2026,Organic Search,2026-06,Active,
+CUS-00942,Juniperpath Industries,United Kingdom,Europe,Software & IT,SMB,1-50,22-06-2024,Organic Search,2024-06,Churned,01-06-2025
+CUS-00943,Latticetrack Group,Australia,Asia-Pacific,Software & IT,Enterprise,5000+,11-02-2025,Outbound Sales,2025-02,Active,
+CUS-00944,Latticestone Industries,Australia,Asia-Pacific,Professional Services,SMB,51-200,01-11-2025,Outbound Sales,2025-11,Active,
+CUS-00945,Onyxshift Solutions,Spain,Europe,Logistics,Mid-Market,201-1000,04-07-2025,Organic Search,2025-07,Churned,01-08-2025
+CUS-00946,Ivoryreach Solutions,Qatar,Middle East,Healthcare,Mid-Market,201-1000,26-12-2025,Outbound Sales,2025-12,Active,
+CUS-00947,Brightline Group,United States,North America,E-Commerce,SMB,1-50,07-04-2026,Partner Referral,2026-04,Active,
+CUS-00948,Harborsync Group,India,Asia-Pacific,Logistics,SMB,51-200,16-01-2026,Outbound Sales,2026-01,Active,
+CUS-00949,Sablecraft Solutions,Egypt,Middle East,E-Commerce,SMB,1-50,02-07-2024,Partner Referral,2024-07,Churned,01-09-2024
+CUS-00950,Vertexmark Solutions,Netherlands,Europe,Financial Services,SMB,51-200,29-10-2025,Content Marketing,2025-10,Active,
+CUS-00951,Umberlabs Group,United States,North America,Professional Services,Mid-Market,201-1000,04-06-2026,Organic Search,2026-06,Active,
+CUS-00952,Helixline,United States,North America,Retail,Mid-Market,201-1000,29-04-2024,Organic Search,2024-04,Active,
+CUS-00953,Onyxspark Group,United States,North America,Manufacturing,SMB,1-50,26-01-2026,Organic Search,2026-01,Active,
+CUS-00954,Cedarflow Digital,Netherlands,Europe,E-Commerce,Mid-Market,201-1000,03-06-2026,Outbound Sales,2026-06,Active,
+CUS-00955,Bluebridge Group,Nigeria,Africa,Education,SMB,1-50,25-12-2025,App Marketplace,2025-12,Active,
+CUS-00956,Brightsystems Holdings,India,Asia-Pacific,Retail,SMB,51-200,06-03-2026,Paid Search,2026-03,Active,
+CUS-00957,Onyxpeak Partners,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,17-05-2026,Product Referral,2026-05,Active,
+CUS-00958,Cedarlabs Holdings,Singapore,Asia-Pacific,E-Commerce,Mid-Market,201-1000,23-12-2025,App Marketplace,2025-12,Active,
+CUS-00959,Meridianscale Industries,Qatar,Middle East,Software & IT,SMB,51-200,03-08-2025,Product Referral,2025-08,Active,
+CUS-00960,Bluepoint Industries,Saudi Arabia,Middle East,Manufacturing,Mid-Market,201-1000,30-03-2026,Content Marketing,2026-03,Active,
+CUS-00961,Ridgepeak Holdings,United States,North America,Financial Services,SMB,51-200,27-08-2025,Organic Search,2025-08,Churned,01-09-2025
+CUS-00962,Basaltflow Holdings,United States,North America,Financial Services,Mid-Market,201-1000,21-05-2025,App Marketplace,2025-05,Active,
+CUS-00963,Latticebridge Solutions,Mexico,Latin America,Logistics,SMB,1-50,28-04-2024,Partner Referral,2024-04,Churned,01-05-2024
+CUS-00964,Driftlogic Group,United Arab Emirates,Middle East,E-Commerce,Mid-Market,201-1000,21-04-2026,App Marketplace,2026-04,Active,
+CUS-00965,Orbittrack,United States,North America,Professional Services,Mid-Market,201-1000,12-11-2025,Partner Referral,2025-11,Active,
+CUS-00966,Copperhub Digital,India,Asia-Pacific,Education,SMB,1-50,11-10-2025,Paid Search,2025-10,Active,
+CUS-00967,Novacore Group,Australia,Asia-Pacific,Energy & Utilities,SMB,1-50,22-09-2025,App Marketplace,2025-09,Active,
+CUS-00968,Cobalthub Holdings,Australia,Asia-Pacific,Professional Services,SMB,1-50,01-09-2025,Product Referral,2025-09,Active,
+CUS-00969,Meridiangate Group,Brazil,Latin America,Financial Services,Enterprise,5000+,22-01-2025,App Marketplace,2025-01,Active,
+CUS-00970,Asterpeak Group,India,Asia-Pacific,Financial Services,SMB,51-200,26-08-2024,Partner Referral,2024-08,Churned,01-04-2026
+CUS-00971,Sablewind Partners,Saudi Arabia,Middle East,E-Commerce,Mid-Market,201-1000,19-06-2024,Outbound Sales,2024-06,Churned,01-06-2025
+CUS-00972,Keystonegate Digital,United States,North America,Manufacturing,Mid-Market,201-1000,23-02-2026,Outbound Sales,2026-02,Active,
+CUS-00973,Onyxpeak Digital,Brazil,Latin America,Logistics,Mid-Market,201-1000,23-05-2025,App Marketplace,2025-05,Active,
+CUS-00974,Deltasync Industries,Spain,Europe,Financial Services,SMB,51-200,05-04-2026,Partner Referral,2026-04,Active,
+CUS-00975,Zenithreach Digital,India,Asia-Pacific,Financial Services,SMB,51-200,04-11-2024,Paid Search,2024-11,Active,
+CUS-00976,Deltamark Industries,Netherlands,Europe,Media & Entertainment,Enterprise,1001-5000,21-07-2024,Outbound Sales,2024-07,Active,
+CUS-00977,Onyxsystems,France,Europe,Software & IT,SMB,51-200,23-05-2026,Product Referral,2026-05,Active,
+CUS-00978,Ridgeflow Holdings,Spain,Europe,Education,SMB,51-200,30-05-2025,Paid Search,2025-05,Churned,01-05-2026
+CUS-00979,Falconbridge Partners,France,Europe,Professional Services,Mid-Market,201-1000,16-04-2026,Events,2026-04,Active,
+CUS-00980,Blueshift,Germany,Europe,Software & IT,Mid-Market,201-1000,16-03-2025,Outbound Sales,2025-03,Active,
+CUS-00981,Sablehub Group,Germany,Europe,Healthcare,SMB,51-200,22-01-2024,Organic Search,2024-01,Active,
+CUS-00982,Zenithbridge Digital,Spain,Europe,Professional Services,SMB,51-200,04-01-2026,Outbound Sales,2026-01,Active,
+CUS-00983,Brightcore Holdings,Germany,Europe,E-Commerce,SMB,1-50,07-04-2026,Organic Search,2026-04,Active,
+CUS-00984,Quantumcraft Partners,India,Asia-Pacific,Financial Services,SMB,51-200,29-09-2024,Outbound Sales,2024-09,Active,
+CUS-00985,Zenithedge Solutions,South Africa,Africa,Financial Services,SMB,51-200,13-09-2024,Outbound Sales,2024-09,Churned,01-10-2024
+CUS-00986,Northwind Partners,France,Europe,Financial Services,Enterprise,1001-5000,23-03-2024,Organic Search,2024-03,Active,
+CUS-00987,Basaltline Partners,India,Asia-Pacific,E-Commerce,SMB,51-200,09-03-2025,Events,2025-03,Churned,01-06-2025
+CUS-00988,Zenithreach,United States,North America,Education,Mid-Market,201-1000,11-10-2024,Content Marketing,2024-10,Churned,01-03-2025
+CUS-00989,Quartzsystems Solutions,Germany,Europe,E-Commerce,Mid-Market,201-1000,03-07-2025,Paid Search,2025-07,Active,
+CUS-00990,Cobaltstone,Netherlands,Europe,Professional Services,SMB,1-50,28-04-2025,Outbound Sales,2025-04,Active,
+CUS-00991,Copperlogic Technologies,United States,North America,E-Commerce,SMB,1-50,12-07-2024,Events,2024-07,Active,
+CUS-00992,Cobaltcore Digital,Saudi Arabia,Middle East,Professional Services,SMB,1-50,12-08-2025,Paid Search,2025-08,Churned,01-10-2025
+CUS-00993,Quartzcore Digital,India,Asia-Pacific,Education,SMB,51-200,17-10-2024,Content Marketing,2024-10,Churned,01-08-2025
+CUS-00994,Orbitlogic Solutions,India,Asia-Pacific,Financial Services,SMB,1-50,04-10-2025,Product Referral,2025-10,Active,
+CUS-00995,Brightscale Technologies,United Kingdom,Europe,Software & IT,Mid-Market,201-1000,24-08-2025,Organic Search,2025-08,Active,
+CUS-00996,Meridiancore Solutions,United Arab Emirates,Middle East,Education,Mid-Market,201-1000,23-05-2026,Content Marketing,2026-05,Active,
+CUS-00997,Brightline Technologies,Singapore,Asia-Pacific,Education,SMB,1-50,03-04-2025,Organic Search,2025-04,Churned,01-05-2025
+CUS-00998,Harborhub,Germany,Europe,Financial Services,SMB,51-200,24-12-2025,Content Marketing,2025-12,Churned,01-02-2026
+CUS-00999,Junipercraft Group,Canada,North America,E-Commerce,SMB,1-50,15-01-2025,Content Marketing,2025-01,Active,
+CUS-01000,Willowbridge,United Arab Emirates,Middle East,Software & IT,Mid-Market,201-1000,28-03-2025,Organic Search,2025-03,Active,
+CUS-01001,Emberline Solutions,Nigeria,Africa,Media & Entertainment,SMB,51-200,12-01-2026,Content Marketing,2026-01,Churned,01-06-2026
+CUS-01002,Cobaltpeak Digital,India,Asia-Pacific,Manufacturing,Enterprise,5000+,16-04-2025,Content Marketing,2025-04,Active,
+CUS-01003,Aurorapath Solutions,Netherlands,Europe,Real Estate,Enterprise,1001-5000,17-02-2026,Product Referral,2026-02,Active,
+CUS-01004,Deltaflow Holdings,United States,North America,Software & IT,Mid-Market,201-1000,21-03-2025,Organic Search,2025-03,Active,
+CUS-01005,Zenithsphere Digital,Saudi Arabia,Middle East,Professional Services,Mid-Market,201-1000,24-02-2025,Outbound Sales,2025-02,Active,
+CUS-01006,Keystonebase Holdings,Brazil,Latin America,Financial Services,Enterprise,5000+,16-06-2026,Paid Search,2026-06,Active,
+CUS-01007,Nimbusreach Group,Mexico,Latin America,Logistics,SMB,51-200,27-08-2025,Outbound Sales,2025-08,Active,
+CUS-01008,Willowedge Partners,Mexico,Latin America,Healthcare,Mid-Market,201-1000,30-08-2025,Product Referral,2025-08,Active,
+CUS-01009,Cobaltlogic Group,United Kingdom,Europe,Professional Services,SMB,51-200,22-08-2025,Outbound Sales,2025-08,Active,
+CUS-01010,Copperedge Digital,United States,North America,E-Commerce,Mid-Market,201-1000,03-04-2025,Paid Search,2025-04,Active,
+CUS-01011,Willowsync Solutions,Brazil,Latin America,Energy & Utilities,SMB,1-50,22-09-2025,Events,2025-09,Active,
+CUS-01012,Orbitlink Technologies,Canada,North America,Financial Services,Mid-Market,201-1000,05-05-2025,Events,2025-05,Active,
+CUS-01013,Bluelogic Solutions,United Arab Emirates,Middle East,Professional Services,SMB,1-50,20-08-2025,Partner Referral,2025-08,Churned,01-04-2026
+CUS-01014,Northlogic Group,Saudi Arabia,Middle East,Retail,Mid-Market,201-1000,23-04-2025,Outbound Sales,2025-04,Active,
+CUS-01015,Blueedge Solutions,France,Europe,Professional Services,Mid-Market,201-1000,13-08-2024,App Marketplace,2024-08,Active,
+CUS-01016,Forgeflow Technologies,United Kingdom,Europe,Healthcare,SMB,51-200,28-10-2025,Partner Referral,2025-10,Churned,01-11-2025
+CUS-01017,Embergrid Industries,Australia,Asia-Pacific,E-Commerce,Mid-Market,201-1000,07-04-2026,App Marketplace,2026-04,Active,
+CUS-01018,Sablesystems Group,United States,North America,Healthcare,Mid-Market,201-1000,07-08-2025,Partner Referral,2025-08,Active,
+CUS-01019,Northscale Partners,Netherlands,Europe,E-Commerce,SMB,51-200,13-01-2025,Outbound Sales,2025-01,Active,
+CUS-01020,Umberbase Technologies,Saudi Arabia,Middle East,Professional Services,SMB,1-50,18-05-2024,App Marketplace,2024-05,Active,
+CUS-01021,Vertexsync,India,Asia-Pacific,Software & IT,SMB,1-50,17-02-2026,Product Referral,2026-02,Active,
+CUS-01022,Aurorapath,Sweden,Europe,Healthcare,SMB,1-50,11-12-2024,Product Referral,2024-12,Active,
+CUS-01023,Umberpath Partners,United Kingdom,Europe,Energy & Utilities,Mid-Market,201-1000,07-05-2026,App Marketplace,2026-05,Active,
+CUS-01024,Meridianpeak Technologies,Netherlands,Europe,Logistics,SMB,51-200,01-11-2024,Content Marketing,2024-11,Active,
+CUS-01025,Auroraworks,Nigeria,Africa,Manufacturing,SMB,1-50,18-10-2024,Organic Search,2024-10,Active,
+CUS-01026,Ivorysync Technologies,United Kingdom,Europe,Software & IT,SMB,51-200,08-08-2025,Organic Search,2025-08,Churned,01-11-2025
+CUS-01027,Basaltsystems,India,Asia-Pacific,Financial Services,SMB,1-50,26-06-2026,Outbound Sales,2026-06,Active,
+CUS-01028,Meridianedge Industries,United States,North America,Education,SMB,51-200,02-11-2024,Events,2024-11,Active,
+CUS-01029,Graniteline Digital,Brazil,Latin America,Professional Services,SMB,51-200,07-11-2024,Partner Referral,2024-11,Churned,01-01-2025
+CUS-01030,Northhub Technologies,Brazil,Latin America,Financial Services,SMB,51-200,11-06-2026,Paid Search,2026-06,Active,
+CUS-01031,Bluepeak Holdings,United States,North America,Education,SMB,1-50,12-05-2025,Product Referral,2025-05,Churned,01-04-2026
+CUS-01032,Aurorahub Solutions,United Arab Emirates,Middle East,Healthcare,Mid-Market,201-1000,16-12-2024,Content Marketing,2024-12,Churned,01-02-2025
+CUS-01033,Summitshift Holdings,India,Asia-Pacific,Financial Services,Mid-Market,201-1000,22-07-2024,Outbound Sales,2024-07,Churned,01-09-2024
+CUS-01034,Latticelogic Industries,Singapore,Asia-Pacific,Healthcare,SMB,51-200,26-02-2026,Organic Search,2026-02,Active,
+CUS-01035,Driftpeak,South Africa,Africa,Logistics,SMB,51-200,03-11-2025,Events,2025-11,Churned,01-12-2025
+CUS-01036,Orbitsystems Partners,United States,North America,Education,Mid-Market,201-1000,08-02-2025,Outbound Sales,2025-02,Churned,01-02-2026
+CUS-01037,Quartzshift Solutions,Sweden,Europe,Professional Services,SMB,51-200,18-01-2026,Paid Search,2026-01,Active,
+CUS-01038,Lumenwave Group,Saudi Arabia,Middle East,Manufacturing,SMB,1-50,06-04-2024,Product Referral,2024-04,Churned,01-04-2025
+CUS-01039,Falconpeak Partners,United Kingdom,Europe,Professional Services,Mid-Market,201-1000,15-04-2024,Organic Search,2024-04,Active,
+CUS-01040,Terrastone Group,United States,North America,Education,SMB,51-200,01-01-2026,Paid Search,2026-01,Churned,01-06-2026
+CUS-01041,Brightworks Digital,Japan,Asia-Pacific,Energy & Utilities,Mid-Market,201-1000,06-06-2026,Partner Referral,2026-06,Active,
+CUS-01042,Harborspark Group,Spain,Europe,Financial Services,Mid-Market,201-1000,19-12-2024,App Marketplace,2024-12,Churned,01-06-2026
+CUS-01043,Deltalabs,Germany,Europe,Logistics,SMB,1-50,27-12-2025,Outbound Sales,2025-12,Active,
+CUS-01044,Quantumscale Partners,Germany,Europe,Logistics,Mid-Market,201-1000,09-03-2026,Outbound Sales,2026-03,Active,
+CUS-01045,Novapath Holdings,United States,North America,Real Estate,SMB,1-50,11-06-2025,App Marketplace,2025-06,Churned,01-01-2026
+CUS-01046,Brightbridge,United Kingdom,Europe,Software & IT,Enterprise,5000+,07-11-2024,Events,2024-11,Active,
+CUS-01047,Quantumbridge Group,Canada,North America,Logistics,Enterprise,1001-5000,05-04-2026,Outbound Sales,2026-04,Active,
+CUS-01048,Orbitedge Digital,Sweden,Europe,Professional Services,Mid-Market,201-1000,25-10-2024,Content Marketing,2024-10,Active,
+CUS-01049,Bluecore Holdings,United States,North America,Manufacturing,SMB,51-200,31-07-2025,App Marketplace,2025-07,Active,
+CUS-01050,Brightsphere Digital,Germany,Europe,Healthcare,Enterprise,1001-5000,05-11-2024,Organic Search,2024-11,Active,
+CUS-01051,Granitesphere Partners,India,Asia-Pacific,Media & Entertainment,Mid-Market,201-1000,21-05-2024,Events,2024-05,Active,
+CUS-01052,Nimbuspeak,United Kingdom,Europe,Financial Services,SMB,1-50,07-02-2026,Content Marketing,2026-02,Active,
+CUS-01053,Quartzpoint Technologies,United States,North America,Retail,Enterprise,1001-5000,13-10-2025,App Marketplace,2025-10,Active,
+CUS-01054,Asterbase Industries,United Kingdom,Europe,Software & IT,Mid-Market,201-1000,21-06-2024,Partner Referral,2024-06,Churned,01-06-2025
+CUS-01055,Sablesystems Holdings,United Arab Emirates,Middle East,Professional Services,Enterprise,5000+,19-04-2024,Paid Search,2024-04,Active,
+CUS-01056,Harborscale Holdings,Saudi Arabia,Middle East,Logistics,SMB,51-200,18-09-2025,App Marketplace,2025-09,Churned,01-06-2026
+CUS-01057,Meridiansystems,Spain,Europe,Media & Entertainment,Mid-Market,201-1000,09-10-2025,Organic Search,2025-10,Active,
+CUS-01058,Pioneerpoint Solutions,United States,North America,Healthcare,SMB,1-50,11-05-2025,Paid Search,2025-05,Active,
+CUS-01059,Onyxwave Technologies,Mexico,Latin America,Software & IT,Mid-Market,201-1000,10-04-2026,Organic Search,2026-04,Active,
+CUS-01060,Embersystems Digital,France,Europe,Education,Mid-Market,201-1000,08-05-2025,Organic Search,2025-05,Active,
+CUS-01061,Lumensphere Digital,Egypt,Middle East,Logistics,SMB,1-50,24-08-2025,Organic Search,2025-08,Churned,01-02-2026
+CUS-01062,Quartzgate Industries,Germany,Europe,Software & IT,Mid-Market,201-1000,10-03-2025,Organic Search,2025-03,Active,
+CUS-01063,Meridianwind Technologies,Saudi Arabia,Middle East,Education,SMB,51-200,16-08-2024,Partner Referral,2024-08,Churned,01-09-2024
+CUS-01064,Quantumhub Industries,Singapore,Asia-Pacific,E-Commerce,Mid-Market,201-1000,15-05-2025,Organic Search,2025-05,Active,
+CUS-01065,Granitepeak Holdings,Nigeria,Africa,E-Commerce,SMB,1-50,04-06-2024,Paid Search,2024-06,Churned,01-08-2024
+CUS-01066,Auroraflow Digital,Canada,North America,Logistics,Mid-Market,201-1000,01-03-2025,Outbound Sales,2025-03,Churned,01-03-2026
+CUS-01067,Graniteshift Holdings,United Kingdom,Europe,E-Commerce,Mid-Market,201-1000,03-11-2024,Partner Referral,2024-11,Churned,01-02-2026
+CUS-01068,Basaltgate Digital,Brazil,Latin America,Professional Services,SMB,51-200,30-05-2024,Outbound Sales,2024-05,Churned,01-09-2025
+CUS-01069,Forgeshift Digital,United Arab Emirates,Middle East,Logistics,SMB,1-50,01-08-2025,Product Referral,2025-08,Active,
+CUS-01070,Basaltpoint,United States,North America,Manufacturing,SMB,1-50,30-06-2026,Partner Referral,2026-06,Active,
+CUS-01071,Quantumwind Industries,United States,North America,Healthcare,SMB,1-50,19-06-2024,Product Referral,2024-06,Active,
+CUS-01072,Terraflow Technologies,Mexico,Latin America,Financial Services,SMB,1-50,25-08-2025,Organic Search,2025-08,Active,
+CUS-01073,Ivorypoint Holdings,Germany,Europe,Software & IT,Mid-Market,201-1000,12-08-2025,Outbound Sales,2025-08,Active,
+CUS-01074,Granitebridge Solutions,Canada,North America,Software & IT,SMB,51-200,08-05-2024,App Marketplace,2024-05,Churned,01-10-2024
+CUS-01075,Basaltbase Partners,United Kingdom,Europe,Software & IT,SMB,51-200,14-01-2025,Partner Referral,2025-01,Churned,01-01-2026
+CUS-01076,Basaltpath Partners,United Arab Emirates,Middle East,Financial Services,SMB,51-200,03-03-2025,Outbound Sales,2025-03,Active,
+CUS-01077,Basaltpoint Solutions,South Africa,Africa,Software & IT,SMB,1-50,04-07-2025,Paid Search,2025-07,Active,
+CUS-01078,Willowwave Technologies,Japan,Asia-Pacific,Manufacturing,Enterprise,1001-5000,09-12-2024,Product Referral,2024-12,Active,
+CUS-01079,Everestsystems Group,Mexico,Latin America,E-Commerce,SMB,51-200,10-01-2025,Events,2025-01,Active,
+CUS-01080,Bluewave Technologies,Spain,Europe,Software & IT,Mid-Market,201-1000,22-02-2025,Product Referral,2025-02,Churned,01-02-2026
+CUS-01081,Emberbase Holdings,United States,North America,Logistics,Mid-Market,201-1000,30-11-2025,Organic Search,2025-11,Active,
+CUS-01082,Zenithlink Group,India,Asia-Pacific,Real Estate,Mid-Market,201-1000,02-09-2025,Partner Referral,2025-09,Active,
+CUS-01083,Nimbushub,South Africa,Africa,E-Commerce,SMB,1-50,09-11-2024,Paid Search,2024-11,Churned,01-12-2025
+CUS-01084,Asterflow Partners,Singapore,Asia-Pacific,Education,Enterprise,5000+,17-05-2025,Events,2025-05,Active,
+CUS-01085,Pioneerline Partners,Australia,Asia-Pacific,Manufacturing,SMB,1-50,05-05-2025,Content Marketing,2025-05,Active,
+CUS-01086,Umbergate Holdings,United Arab Emirates,Middle East,Manufacturing,Mid-Market,201-1000,01-10-2024,Organic Search,2024-10,Churned,01-09-2025
+CUS-01087,Forgegrid Industries,United Arab Emirates,Middle East,Financial Services,Enterprise,1001-5000,10-11-2025,Content Marketing,2025-11,Active,
+CUS-01088,Willowreach,United States,North America,Financial Services,Mid-Market,201-1000,27-11-2024,Organic Search,2024-11,Active,
+CUS-01089,Meridiansync,United States,North America,Logistics,Mid-Market,201-1000,22-09-2025,Organic Search,2025-09,Active,
+CUS-01090,Willowbridge Technologies,Australia,Asia-Pacific,E-Commerce,Mid-Market,201-1000,07-11-2024,Outbound Sales,2024-11,Active,
+CUS-01091,Juniperspark Industries,Netherlands,Europe,Professional Services,SMB,1-50,04-02-2026,Content Marketing,2026-02,Active,
+CUS-01092,Sablesystems Industries,Canada,North America,E-Commerce,SMB,51-200,14-02-2026,Events,2026-02,Active,
+CUS-01093,Aurorasphere Group,United Arab Emirates,Middle East,E-Commerce,SMB,1-50,12-04-2025,Events,2025-04,Churned,01-06-2025
+CUS-01094,Auroragrid Technologies,India,Asia-Pacific,Education,Enterprise,1001-5000,15-12-2025,Partner Referral,2025-12,Active,
+CUS-01095,Emberworks Holdings,Netherlands,Europe,Software & IT,SMB,51-200,11-05-2024,Paid Search,2024-05,Active,
+CUS-01096,Northwind Holdings,United Kingdom,Europe,Retail,Mid-Market,201-1000,19-12-2025,Organic Search,2025-12,Active,
+CUS-01097,Pioneerwave Holdings,United Kingdom,Europe,Education,Mid-Market,201-1000,06-11-2024,Content Marketing,2024-11,Active,
+CUS-01098,Aurorasphere Digital,United States,North America,Retail,SMB,1-50,05-06-2024,Paid Search,2024-06,Active,
+CUS-01099,Keystonecore,Singapore,Asia-Pacific,Financial Services,Mid-Market,201-1000,15-09-2025,Product Referral,2025-09,Active,
+CUS-01100,Basaltlink Industries,Germany,Europe,Retail,Mid-Market,201-1000,20-09-2024,Outbound Sales,2024-09,Churned,01-11-2024
+CUS-01101,Everesttrack Partners,United States,North America,Real Estate,Mid-Market,201-1000,22-12-2025,Content Marketing,2025-12,Active,
+CUS-01102,Keystonewave Digital,Netherlands,Europe,E-Commerce,Enterprise,1001-5000,07-01-2025,Product Referral,2025-01,Active,
+CUS-01103,Deltaedge Holdings,United States,North America,Professional Services,Enterprise,5000+,22-04-2025,Content Marketing,2025-04,Active,
+CUS-01104,Asterworks Technologies,United States,North America,Manufacturing,SMB,1-50,27-12-2025,Content Marketing,2025-12,Active,
+CUS-01105,Ridgecore Solutions,Sweden,Europe,Manufacturing,Enterprise,5000+,05-11-2025,Partner Referral,2025-11,Active,
+CUS-01106,Latticehub Industries,Australia,Asia-Pacific,E-Commerce,SMB,51-200,10-06-2025,Product Referral,2025-06,Churned,01-10-2025
+CUS-01107,Juniperwind Holdings,Germany,Europe,Media & Entertainment,SMB,1-50,30-03-2026,Outbound Sales,2026-03,Active,
+CUS-01108,Helixhub Technologies,United States,North America,Manufacturing,SMB,1-50,27-09-2024,Partner Referral,2024-09,Active,
+CUS-01109,Novacore Industries,United States,North America,Healthcare,Mid-Market,201-1000,03-11-2024,Content Marketing,2024-11,Active,
+CUS-01110,Onyxtrack Partners,Saudi Arabia,Middle East,Healthcare,SMB,51-200,25-06-2025,Partner Referral,2025-06,Active,
+CUS-01111,Bluesync Group,Sweden,Europe,Manufacturing,SMB,1-50,22-06-2025,Paid Search,2025-06,Active,
+CUS-01112,Harborsync,Canada,North America,Financial Services,Mid-Market,201-1000,01-05-2024,Content Marketing,2024-05,Active,
+CUS-01113,Aurorawind,India,Asia-Pacific,E-Commerce,SMB,51-200,08-04-2024,Product Referral,2024-04,Churned,01-03-2025
+CUS-01114,Zenithpath Industries,Netherlands,Europe,Professional Services,Enterprise,5000+,04-04-2026,Partner Referral,2026-04,Active,
+CUS-01115,Aurorawind Solutions,Singapore,Asia-Pacific,Media & Entertainment,SMB,1-50,14-05-2026,Product Referral,2026-05,Churned,01-06-2026
+CUS-01116,Summitsphere Industries,Japan,Asia-Pacific,Healthcare,Enterprise,1001-5000,23-10-2025,Events,2025-10,Active,
+CUS-01117,Terrasphere Group,Netherlands,Europe,Manufacturing,Enterprise,1001-5000,01-12-2025,Content Marketing,2025-12,Active,
+CUS-01118,Granitecore,Singapore,Asia-Pacific,Financial Services,SMB,1-50,28-09-2024,Events,2024-09,Active,
+CUS-01119,Pioneerflow,Singapore,Asia-Pacific,Software & IT,Mid-Market,201-1000,01-12-2025,Organic Search,2025-12,Active,
+CUS-01120,Falconstone Solutions,Singapore,Asia-Pacific,E-Commerce,Mid-Market,201-1000,14-09-2024,Partner Referral,2024-09,Churned,01-10-2024
+CUS-01121,Meridianwave,Singapore,Asia-Pacific,Education,SMB,1-50,10-05-2026,Partner Referral,2026-05,Active,
+CUS-01122,Sablebase Holdings,India,Asia-Pacific,Energy & Utilities,SMB,51-200,23-12-2025,Product Referral,2025-12,Active,
+CUS-01123,Coppercore Holdings,United States,North America,Financial Services,Mid-Market,201-1000,22-12-2024,Outbound Sales,2024-12,Active,
+CUS-01124,Sablesystems Digital,Saudi Arabia,Middle East,E-Commerce,Mid-Market,201-1000,06-03-2024,Paid Search,2024-03,Active,
+CUS-01125,Orbitcraft Digital,Saudi Arabia,Middle East,Logistics,Enterprise,1001-5000,25-05-2026,Content Marketing,2026-05,Active,
+CUS-01126,Helixwind Partners,Mexico,Latin America,Healthcare,Mid-Market,201-1000,13-09-2025,App Marketplace,2025-09,Active,
+CUS-01127,Orbitcraft,Spain,Europe,Financial Services,Enterprise,1001-5000,12-12-2024,App Marketplace,2024-12,Active,
+CUS-01128,Terrawave Solutions,United Kingdom,Europe,Software & IT,SMB,1-50,19-07-2025,Organic Search,2025-07,Churned,01-09-2025
+CUS-01129,Willowline Digital,Germany,Europe,Logistics,SMB,1-50,21-07-2024,App Marketplace,2024-07,Churned,01-06-2025
+CUS-01130,Orbittrack Holdings,United States,North America,Retail,SMB,51-200,09-09-2025,Organic Search,2025-09,Active,
+CUS-01131,Zenithtrack Technologies,United States,North America,E-Commerce,SMB,51-200,05-11-2024,Product Referral,2024-11,Churned,01-05-2026
+CUS-01132,Meridianline Digital,France,Europe,Logistics,SMB,51-200,07-04-2026,Content Marketing,2026-04,Active,
+CUS-01133,Helixedge,United States,North America,Education,Mid-Market,201-1000,01-04-2025,Partner Referral,2025-04,Active,
+CUS-01134,Keystonesync Solutions,Australia,Asia-Pacific,E-Commerce,SMB,1-50,26-12-2024,Paid Search,2024-12,Active,
+CUS-01135,Vantageedge,India,Asia-Pacific,Software & IT,Enterprise,1001-5000,07-11-2024,Organic Search,2024-11,Active,
+CUS-01136,Deltabridge Industries,Australia,Asia-Pacific,Software & IT,Mid-Market,201-1000,04-09-2025,App Marketplace,2025-09,Active,
+CUS-01137,Ridgeflow Solutions,Brazil,Latin America,E-Commerce,SMB,51-200,19-07-2024,Organic Search,2024-07,Churned,01-10-2025
+CUS-01138,Pioneersync Digital,Netherlands,Europe,Logistics,SMB,51-200,04-07-2024,Paid Search,2024-07,Active,
+CUS-01139,Nimbusscale Partners,United States,North America,Education,Mid-Market,201-1000,03-11-2025,Organic Search,2025-11,Active,
+CUS-01140,Lumenworks Holdings,India,Asia-Pacific,Education,SMB,1-50,22-05-2025,Organic Search,2025-05,Churned,01-09-2025
+CUS-01141,Helixflow Group,Mexico,Latin America,Education,SMB,51-200,22-02-2026,Organic Search,2026-02,Active,
+CUS-01142,Zenithbridge Industries,Spain,Europe,Software & IT,SMB,51-200,01-12-2024,Paid Search,2024-12,Active,
+CUS-01143,Meridiantrack Digital,Sweden,Europe,Retail,SMB,51-200,30-03-2026,Organic Search,2026-03,Active,
+CUS-01144,Basaltcraft Industries,United States,North America,E-Commerce,Mid-Market,201-1000,06-02-2025,Product Referral,2025-02,Active,
+CUS-01145,Granitemark Solutions,United Arab Emirates,Middle East,Professional Services,Mid-Market,201-1000,01-09-2024,App Marketplace,2024-09,Active,
+CUS-01146,Orbitworks Partners,Mexico,Latin America,Logistics,Mid-Market,201-1000,13-07-2025,Outbound Sales,2025-07,Churned,01-04-2026
+CUS-01147,Summitsystems Industries,Nigeria,Africa,Software & IT,Mid-Market,201-1000,11-06-2026,Events,2026-06,Active,
+CUS-01148,Bluecraft Technologies,Australia,Asia-Pacific,Real Estate,Mid-Market,201-1000,01-10-2024,App Marketplace,2024-10,Active,
+CUS-01149,Emberhub Partners,Singapore,Asia-Pacific,Software & IT,Enterprise,1001-5000,13-12-2025,Partner Referral,2025-12,Active,
+CUS-01150,Basaltgrid Partners,India,Asia-Pacific,Manufacturing,SMB,51-200,09-05-2026,Organic Search,2026-05,Active,
+CUS-01151,Helixwind,United States,North America,Manufacturing,SMB,1-50,24-03-2026,Organic Search,2026-03,Churned,01-06-2026
+CUS-01152,Cedarshift Technologies,Japan,Asia-Pacific,Real Estate,SMB,51-200,30-05-2024,Organic Search,2024-05,Churned,01-08-2024
+CUS-01153,Cobaltcraft Holdings,Spain,Europe,Software & IT,Mid-Market,201-1000,25-06-2026,Outbound Sales,2026-06,Active,
+CUS-01154,Terratrack Holdings,Nigeria,Africa,E-Commerce,SMB,51-200,16-01-2026,App Marketplace,2026-01,Active,
+CUS-01155,Forgereach Technologies,United Kingdom,Europe,Real Estate,Enterprise,1001-5000,25-09-2024,Outbound Sales,2024-09,Active,
+CUS-01156,Basaltsphere Holdings,United Kingdom,Europe,Healthcare,Mid-Market,201-1000,14-08-2024,App Marketplace,2024-08,Churned,01-12-2024
+CUS-01157,Emberpath Partners,Mexico,Latin America,Professional Services,Mid-Market,201-1000,10-12-2024,Organic Search,2024-12,Active,
+CUS-01158,Astersphere Solutions,United Kingdom,Europe,E-Commerce,Enterprise,5000+,14-07-2025,Events,2025-07,Active,
+CUS-01159,Forgepoint Digital,Germany,Europe,Financial Services,SMB,1-50,27-06-2026,Organic Search,2026-06,Active,
+CUS-01160,Driftbridge,United Arab Emirates,Middle East,Financial Services,SMB,1-50,16-07-2025,Outbound Sales,2025-07,Active,
+CUS-01161,Quantumwind Digital,United States,North America,Energy & Utilities,SMB,51-200,19-09-2025,Paid Search,2025-09,Active,
+CUS-01162,Auroralabs Technologies,Nigeria,Africa,Software & IT,Mid-Market,201-1000,07-04-2025,Partner Referral,2025-04,Active,
+CUS-01163,Everestbase Group,Netherlands,Europe,Healthcare,SMB,1-50,01-07-2025,Organic Search,2025-07,Active,
+CUS-01164,Sablespark Technologies,United States,North America,Financial Services,SMB,51-200,29-04-2026,Paid Search,2026-04,Active,
+CUS-01165,Onyxwave Group,France,Europe,Logistics,Mid-Market,201-1000,05-08-2025,Organic Search,2025-08,Active,
+CUS-01166,Vertexflow Group,Netherlands,Europe,Professional Services,SMB,1-50,03-12-2025,Events,2025-12,Active,
+CUS-01167,Novabase Group,United Kingdom,Europe,Software & IT,SMB,1-50,29-03-2025,Outbound Sales,2025-03,Active,
+CUS-01168,Quantumlabs Digital,Australia,Asia-Pacific,Manufacturing,SMB,1-50,26-01-2024,Partner Referral,2024-01,Active,
+CUS-01169,Driftpoint Group,France,Europe,Real Estate,Mid-Market,201-1000,26-02-2024,Events,2024-02,Churned,01-09-2024
+CUS-01170,Quantumscale Solutions,Nigeria,Africa,Retail,Enterprise,5000+,28-06-2025,Product Referral,2025-06,Active,
+CUS-01171,Sablepath Technologies,Saudi Arabia,Middle East,Manufacturing,Mid-Market,201-1000,05-10-2024,Paid Search,2024-10,Active,
+CUS-01172,Granitepoint Industries,Netherlands,Europe,Logistics,Mid-Market,201-1000,02-12-2024,Organic Search,2024-12,Churned,01-02-2025
+CUS-01173,Quartzwave Holdings,Egypt,Middle East,Financial Services,Enterprise,1001-5000,09-02-2026,App Marketplace,2026-02,Active,
+CUS-01174,Summitstone Industries,Egypt,Middle East,E-Commerce,SMB,51-200,10-03-2026,Outbound Sales,2026-03,Churned,01-06-2026
+CUS-01175,Embertrack Group,France,Europe,Retail,Enterprise,1001-5000,04-04-2025,Product Referral,2025-04,Active,
+CUS-01176,Northsphere Partners,Saudi Arabia,Middle East,Financial Services,SMB,51-200,19-10-2025,Paid Search,2025-10,Active,
+CUS-01177,Onyxlabs Holdings,United States,North America,E-Commerce,SMB,51-200,08-04-2025,Paid Search,2025-04,Active,
+CUS-01178,Willowlink Holdings,United States,North America,E-Commerce,Enterprise,5000+,29-12-2024,Organic Search,2024-12,Active,
+CUS-01179,Forgebase Group,India,Asia-Pacific,Education,Mid-Market,201-1000,20-01-2026,Organic Search,2026-01,Active,
+CUS-01180,Brightgate Technologies,Spain,Europe,Energy & Utilities,SMB,1-50,06-08-2024,Paid Search,2024-08,Churned,01-07-2025
+CUS-01181,Emberbridge Group,Sweden,Europe,Financial Services,SMB,1-50,15-11-2025,Events,2025-11,Active,
+CUS-01182,Northpeak Holdings,Saudi Arabia,Middle East,Software & IT,SMB,1-50,01-02-2025,Content Marketing,2025-02,Churned,01-05-2026
+CUS-01183,Lumenbase,United States,North America,Media & Entertainment,Mid-Market,201-1000,20-06-2026,Paid Search,2026-06,Active,
+CUS-01184,Zenithwave,Singapore,Asia-Pacific,Retail,SMB,51-200,12-07-2024,Content Marketing,2024-07,Churned,01-02-2025
+CUS-01185,Bluehub Digital,Germany,Europe,Manufacturing,SMB,51-200,31-01-2026,Partner Referral,2026-01,Churned,01-04-2026
+CUS-01186,Auroragrid,United States,North America,E-Commerce,SMB,1-50,11-05-2025,Content Marketing,2025-05,Active,
+CUS-01187,Helixreach Group,United Kingdom,Europe,Professional Services,Enterprise,5000+,07-03-2026,Events,2026-03,Active,
+CUS-01188,Northsync Solutions,United States,North America,Financial Services,SMB,51-200,28-03-2026,Events,2026-03,Active,
+CUS-01189,Nimbussystems Industries,Australia,Asia-Pacific,Retail,SMB,1-50,22-03-2024,Product Referral,2024-03,Churned,01-09-2025
+CUS-01190,Keystonesystems Holdings,United Kingdom,Europe,Retail,Enterprise,5000+,19-02-2024,App Marketplace,2024-02,Churned,01-02-2025
+CUS-01191,Astergrid Technologies,Singapore,Asia-Pacific,Logistics,SMB,1-50,30-09-2024,Outbound Sales,2024-09,Active,
+CUS-01192,Onyxwave Digital,Australia,Asia-Pacific,Media & Entertainment,SMB,1-50,15-01-2026,Outbound Sales,2026-01,Active,
+CUS-01193,Umberwave Industries,Mexico,Latin America,Manufacturing,Mid-Market,201-1000,17-06-2026,Partner Referral,2026-06,Active,
+CUS-01194,Helixhub Industries,United Kingdom,Europe,Software & IT,SMB,51-200,22-05-2025,Product Referral,2025-05,Active,
+CUS-01195,Orbitstone Partners,Nigeria,Africa,Software & IT,SMB,51-200,20-06-2025,Organic Search,2025-06,Active,
+CUS-01196,Zenithshift Group,United States,North America,Real Estate,SMB,1-50,08-02-2026,App Marketplace,2026-02,Active,
+CUS-01197,Pioneersphere Partners,United States,North America,Retail,SMB,1-50,12-04-2026,Partner Referral,2026-04,Active,
+CUS-01198,Granitegrid Holdings,Australia,Asia-Pacific,E-Commerce,SMB,1-50,07-06-2026,Product Referral,2026-06,Active,
+CUS-01199,Ivorysphere Group,Qatar,Middle East,Logistics,Mid-Market,201-1000,25-05-2026,Partner Referral,2026-05,Active,
+CUS-01200,Willowwind Technologies,France,Europe,Real Estate,Enterprise,5000+,16-02-2026,Content Marketing,2026-02,Active,
